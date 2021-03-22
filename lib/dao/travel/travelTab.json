@@ -1,0 +1,253 @@
+{
+  "ResponseStatus" : {
+    "Ack" : "Success",
+    "Errors" : [],
+    "Extension" : [
+      {
+        "Id" : "CLOGGING_TRACE_ID",
+        "Value" : "1977299099676827903"
+      },
+      {
+        "Id" : "RootMessageId",
+        "Value" : "100025527-0a0effca-448879-78799"
+      }
+    ],
+    "Timestamp" : "/Date(1615964421018+0800)/"
+  },
+  "abTestResult" : "A",
+  "currentTime" : "2021-03-17 15:00:20",
+  "district" : {
+    "districtId" : -1,
+    "districtName" : "全球",
+    "groups" : [
+      {
+        "code" : "tourphoto_global1",
+        "name" : "推荐",
+        "note" : "",
+        "type" : 1
+      },
+      {
+        "code" : "taqing",
+        "name" : "春日踏青记",
+        "note" : ""
+      },
+      {
+        "code" : "flower",
+        "name" : "赏花指南",
+        "note" : ""
+      },
+      {
+        "code" : "BOSSzhibo",
+        "name" : "直播好货推荐",
+        "note" : ""
+      },
+      {
+        "code" : "hotel",
+        "name" : "酒店住上瘾",
+        "note" : ""
+      },
+      {
+        "code" : "msxwzl",
+        "name" : "美食寻味之旅",
+        "note" : ""
+      },
+      {
+        "code" : "wanghongdakadi",
+        "name" : "网红打卡地",
+        "note" : ""
+      },
+      {
+        "code" : "children",
+        "name" : "亲子时光",
+        "note" : "遛娃好去处"
+      },
+      {
+        "code" : "zijiayoubaodian",
+        "name" : "自驾游宝典",
+        "note" : ""
+      },
+      {
+        "code" : "show",
+        "name" : "逛展大搜罗",
+        "note" : ""
+      },
+      {
+        "code" : "less-known",
+        "name" : "小众探秘",
+        "note" : ""
+      }
+    ]
+  },
+  "subjectModules" : [
+    {
+      "moduleType" : 9,
+      "subjectOperationThemeItemDto" : {
+        "moreTextForApp" : "",
+        "moreTextForH5" : "",
+        "moreTextForMainWx" : "",
+        "moreTextForWx" : "",
+        "styleType" : 7,
+        "themes" : [],
+        "title" : "本周话题"
+      },
+      "virtualType" : 0
+    },
+    {
+      "moduleType" : 9,
+      "subjectOperationThemeItemDto" : {
+        "moreTextForApp" : "",
+        "moreTextForH5" : "",
+        "moreTextForMainWx" : "",
+        "moreTextForWx" : "",
+        "styleType" : 8,
+        "themes" : [
+          {
+            "appUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=157&ishideheader=yes&isHideNavBar=YES",
+            "articleSortType" : 0,
+            "detail" : "",
+            "groupCode" : "photo-hongkong",
+            "groupName" : "拍照攻略",
+            "h5Url" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=157&ishideheader=yes&isHideNavBar=YES",
+            "image" : {},
+            "mainWxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=157&ishideheader=yes&isHideNavBar=YES&isMini=2",
+            "note" : "",
+            "sortIndex" : -2,
+            "styleType" : 0,
+            "title" : "#香港好拍地",
+            "totalCount" : 59,
+            "wxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=157&ishideheader=yes&isHideNavBar=YES&isMini=1"
+          },
+          {
+            "appUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=159&ishideheader=yes&isHideNavBar=YES",
+            "articleSortType" : 0,
+            "detail" : "",
+            "groupCode" : "photo-shanghai",
+            "groupName" : "拍照攻略",
+            "h5Url" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=159&ishideheader=yes&isHideNavBar=YES",
+            "image" : {},
+            "mainWxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=159&ishideheader=yes&isHideNavBar=YES&isMini=2",
+            "note" : "",
+            "sortIndex" : -1,
+            "styleType" : 0,
+            "title" : "#上海拍照必打卡",
+            "totalCount" : 87,
+            "wxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=159&ishideheader=yes&isHideNavBar=YES&isMini=1"
+          },
+          {
+            "appUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=161&ishideheader=yes&isHideNavBar=YES",
+            "articleSortType" : 0,
+            "detail" : "",
+            "groupCode" : "photo-guangzhou",
+            "groupName" : "拍照攻略",
+            "h5Url" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=161&ishideheader=yes&isHideNavBar=YES",
+            "image" : {},
+            "mainWxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=161&ishideheader=yes&isHideNavBar=YES&isMini=2",
+            "note" : "",
+            "sortIndex" : 0,
+            "styleType" : 0,
+            "title" : "#北京拍照攻略",
+            "totalCount" : 44,
+            "wxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=161&ishideheader=yes&isHideNavBar=YES&isMini=1"
+          },
+          {
+            "appUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=114&ishideheader=yes&isHideNavBar=YES",
+            "articleSortType" : 0,
+            "detail" : "",
+            "groupCode" : "tourphoto_topic_DJ",
+            "groupName" : "最美冬景",
+            "h5Url" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=114&ishideheader=yes&isHideNavBar=YES",
+            "image" : {},
+            "mainWxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=114&ishideheader=yes&isHideNavBar=YES&isMini=2",
+            "note" : "",
+            "sortIndex" : 1,
+            "styleType" : 0,
+            "title" : "#冬季去哪儿",
+            "totalCount" : 369,
+            "wxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=114&ishideheader=yes&isHideNavBar=YES&isMini=1"
+          },
+          {
+            "appUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=129&ishideheader=yes&isHideNavBar=YES",
+            "articleSortType" : 0,
+            "detail" : "",
+            "groupCode" : "Island_All",
+            "groupName" : "度假海岛游",
+            "h5Url" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=129&ishideheader=yes&isHideNavBar=YES",
+            "image" : {},
+            "mainWxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=129&ishideheader=yes&isHideNavBar=YES&isMini=2",
+            "note" : "",
+            "sortIndex" : 2,
+            "styleType" : 0,
+            "title" : "#东南亚海岛",
+            "totalCount" : 1453,
+            "wxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=129&ishideheader=yes&isHideNavBar=YES&isMini=1"
+          },
+          {
+            "appUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=73&ishideheader=yes&isHideNavBar=YES",
+            "articleSortType" : 0,
+            "detail" : "",
+            "groupCode" : "tourphoto_topic_jt",
+            "groupName" : "特色交通",
+            "h5Url" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=73&ishideheader=yes&isHideNavBar=YES",
+            "image" : {},
+            "mainWxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=73&ishideheader=yes&isHideNavBar=YES&isMini=2",
+            "note" : "",
+            "sortIndex" : 3,
+            "styleType" : 0,
+            "title" : "#旅行特色交通",
+            "totalCount" : 43,
+            "wxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=73&ishideheader=yes&isHideNavBar=YES&isMini=1"
+          },
+          {
+            "appUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=72&ishideheader=yes&isHideNavBar=YES",
+            "articleSortType" : 0,
+            "detail" : "",
+            "groupCode" : "tourphoto_topic_town",
+            "groupName" : "风情小镇",
+            "h5Url" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=72&ishideheader=yes&isHideNavBar=YES",
+            "image" : {},
+            "mainWxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=72&ishideheader=yes&isHideNavBar=YES&isMini=2",
+            "note" : "",
+            "sortIndex" : 4,
+            "styleType" : 0,
+            "title" : "#风情小镇",
+            "totalCount" : 71,
+            "wxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=72&ishideheader=yes&isHideNavBar=YES&isMini=1"
+          },
+          {
+            "appUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=39&ishideheader=yes&isHideNavBar=YES",
+            "articleSortType" : 0,
+            "detail" : "",
+            "groupCode" : "tourphoto_global_JR",
+            "groupName" : "在当地过节",
+            "h5Url" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=39&ishideheader=yes&isHideNavBar=YES",
+            "image" : {},
+            "mainWxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=39&ishideheader=yes&isHideNavBar=YES&isMini=2",
+            "note" : "",
+            "sortIndex" : 6,
+            "styleType" : 0,
+            "title" : "#全球奇妙节日",
+            "totalCount" : 120,
+            "wxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=39&ishideheader=yes&isHideNavBar=YES&isMini=1"
+          },
+          {
+            "appUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=105&ishideheader=yes&isHideNavBar=YES",
+            "articleSortType" : 0,
+            "detail" : "",
+            "groupCode" : "test",
+            "h5Url" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=105&ishideheader=yes&isHideNavBar=YES",
+            "image" : {},
+            "mainWxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=105&ishideheader=yes&isHideNavBar=YES&isMini=2",
+            "note" : "",
+            "sortIndex" : 7,
+            "styleType" : 0,
+            "title" : "#年度旅行盘点",
+            "totalCount" : 0,
+            "wxUrl" : "https://m.ctrip.com/webapp/you/livestream/paipai/operateTopic.html?Id=105&ishideheader=yes&isHideNavBar=YES&isMini=1"
+          }
+        ],
+        "title" : "热门话题"
+      },
+      "virtualType" : 0
+    }
+  ]
+}

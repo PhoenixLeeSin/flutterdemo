@@ -1,0 +1,43 @@
+{
+  "ResponseStatus": {
+      "Timestamp": "/Date(1615964324733+0800)/",
+      "Ack": "Success",
+      "Errors": [],
+      "Extension": [
+          {
+              "Id": "CLOGGING_TRACE_ID",
+              "Value": "6764646909032127148"
+          },
+          {
+              "Id": "RootMessageId",
+              "Value": "100025527-0a3d5330-448878-12307508"
+          }
+      ]
+  },
+  "result": [
+      {
+          "prefix": "试试搜",
+          "content": "私藏小众赏花地",
+          "h5Url": "https://contents.ctrip.com/activitysetupapp/mkt/index/scxzshd?popup=closed&pushcode=comm_scxzshd_rsaw",
+          "appUrl": "https://contents.ctrip.com/activitysetupapp/mkt/index/scxzshd?popup=closed&pushcode=comm_scxzshd_rsaw",
+          "wxUrl": "https://contents.ctrip.com/activitysetupapp/mkt/index/scxzshd?popup=closed&pushcode=comm_scxzshd_rsaw&isMini=1",
+          "mainWxUrl": "https://contents.ctrip.com/activitysetupapp/mkt/index/scxzshd?popup=closed&pushcode=comm_scxzshd_rsaw&isMini=2"
+      },
+      {
+          "prefix": "试试搜",
+          "content": "云游《寻龙传说》",
+          "h5Url": "https://m.ctrip.com/webapp/you/tsnap/racingTrackIndex.html?activityid=318&isHideNavBar=yesisShare=yes&clientAuth=C4C6EFC86C51408B3A9F8B524BEDFE57&pushcode=comm_xlcs_anwen",
+          "appUrl": "https://m.ctrip.com/webapp/you/tsnap/racingTrackIndex.html?activityid=318&isHideNavBar=yesisShare=yes&clientAuth=C4C6EFC86C51408B3A9F8B524BEDFE57&pushcode=comm_xlcs_anwen",
+          "wxUrl": "https://m.ctrip.com/webapp/you/tsnap/racingTrackIndex.html?activityid=318&isHideNavBar=yesisShare=yes&clientAuth=C4C6EFC86C51408B3A9F8B524BEDFE57&pushcode=comm_xlcs_anwen&isMini=1",
+          "mainWxUrl": "https://m.ctrip.com/webapp/you/tsnap/racingTrackIndex.html?activityid=318&isHideNavBar=yesisShare=yes&clientAuth=C4C6EFC86C51408B3A9F8B524BEDFE57&pushcode=comm_xlcs_anwen&isMini=2"
+      },
+      {
+          "prefix": "试试搜",
+          "content": "中国餐厅周",
+          "h5Url": "https://m.ctrip.com/webapp/you/livestream/paipai/topic.html?Id=16512&isHideHeader=true&isHideNavBar=YES&navBarStyle=white&popup=close&pushcode=dasouanwen",
+          "appUrl": "https://m.ctrip.com/webapp/you/livestream/paipai/topic.html?Id=16512&isHideHeader=true&isHideNavBar=YES&navBarStyle=white&popup=close&pushcode=dasouanwen",
+          "wxUrl": "https://m.ctrip.com/webapp/you/livestream/paipai/topic.html?Id=16512&isHideHeader=true&isHideNavBar=YES&navBarStyle=white&popup=close&pushcode=dasouanwen&isMini=1",
+          "mainWxUrl": "https://m.ctrip.com/webapp/you/livestream/paipai/topic.html?Id=16512&isHideHeader=true&isHideNavBar=YES&navBarStyle=white&popup=close&pushcode=dasouanwen&isMini=2"
+      }
+  ]
+}

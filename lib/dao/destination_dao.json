@@ -1,0 +1,6766 @@
+{
+  "ResponseStatus": {
+    "Ack": "Success",
+    "Errors": [],
+    "Extension": [
+      {
+        "Id": "CLOGGING_TRACE_ID",
+        "Value": "331081128160516269"
+      },
+      {
+        "Id": "RootMessageId",
+        "Value": "100025527-0a3c4868-448680-3507330"
+      }
+    ],
+    "Timestamp": "/Date(1615249541026+0800)/"
+  },
+  "navigationPopList": [
+    {
+      "category": 1,
+      "categoryName": "热门",
+      "destAreaList": [
+        {
+          "child": [
+            {
+              "id": 61,
+              "kwd": "三亚",
+              "picUrl": "https://dimg07.c-ctrip.com/images/100o1f000001gp6di1DB0_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "人气",
+                  "type": 1
+                }
+              ],
+              "text": "三亚"
+            },
+            {
+              "id": 100007,
+              "kwd": "云南",
+              "picUrl": "https://dimg06.c-ctrip.com/images/fd/tg/g3/M07/01/AD/CggYGVXdMjCAYC76AE_wQZoMows816_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "云南"
+            },
+            {
+              "id": 30,
+              "kwd": "西双版纳",
+              "picUrl": "https://dimg01.c-ctrip.com/images/fd/tg/g4/M06/9C/D8/CggYHFXRUw2AAJrSABIhk3trj7Y885_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "西双版纳"
+            },
+            {
+              "id": 268,
+              "kwd": "长白山",
+              "picUrl": "https://dimg05.c-ctrip.com/images/100c0q000000gffox4CBA_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "长白山"
+            },
+            {
+              "id": 32,
+              "kwd": "丽江",
+              "picUrl": "https://dimg05.c-ctrip.com/images/100b11000000qcd4zEAD7_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "人气",
+                  "type": 1
+                }
+              ],
+              "text": "丽江"
+            },
+            {
+              "id": 151,
+              "kwd": "哈尔滨",
+              "picUrl": "https://dimg01.c-ctrip.com/images/100s0z000000ng5sn3ED6_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "哈尔滨"
+            },
+            {
+              "id": 152,
+              "kwd": "广州",
+              "picUrl": "https://dimg06.c-ctrip.com/images/100c180000014rkpq4C68_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "美食",
+                  "type": 1
+                }
+              ],
+              "text": "广州"
+            },
+            {
+              "id": 21,
+              "kwd": "厦门",
+              "picUrl": "https://dimg01.c-ctrip.com/images/100w1f000001gwb0k4589_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "厦门"
+            },
+            {
+              "id": 140,
+              "kwd": "北海",
+              "picUrl": "https://dimg05.c-ctrip.com/images/100p0e00000076fm26A57_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "北海"
+            },
+            {
+              "id": 696,
+              "kwd": "腾冲",
+              "picUrl": "https://dimg05.c-ctrip.com/images/10070q000000grw8lD8EC_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "腾冲"
+            },
+            {
+              "id": 31,
+              "kwd": "大理",
+              "picUrl": "https://dimg01.c-ctrip.com/images/100n0w000000k4n3fB3A0_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "大理"
+            },
+            {
+              "id": 158,
+              "kwd": "重庆",
+              "picUrl": "https://dimg05.c-ctrip.com/images/100f180000013p2c086E4_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "美食",
+                  "type": 1
+                }
+              ],
+              "text": "重庆"
+            },
+            {
+              "id": 28,
+              "kwd": "桂林",
+              "picUrl": "https://dimg01.c-ctrip.com/images/100f1f000001gqajd878F_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "桂林"
+            },
+            {
+              "id": 27,
+              "kwd": "珠海",
+              "picUrl": "https://dimg02.c-ctrip.com/images/fd/tg/g1/M05/74/3D/CghzflUsoXCAEV4aAAm86zXLkaY672_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "珠海"
+            },
+            {
+              "id": 2,
+              "kwd": "上海",
+              "picUrl": "https://dimg07.c-ctrip.com/images/100e0h0000008rp39A12F_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "上海"
+            },
+            {
+              "id": 29,
+              "kwd": "昆明",
+              "picUrl": "https://dimg08.c-ctrip.com/images/100v11000000r8baxE37B_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "昆明"
+            }
+          ],
+          "id": 1001,
+          "text": "热门目的地"
+        }
+      ]
+    },
+    {
+      "category": 2,
+      "categoryName": "周边",
+      "destAreaList": [
+        {
+          "child": [
+            {
+              "id": 2,
+              "kwd": "上海",
+              "picUrl": "https://dimg07.c-ctrip.com/images/100e0h0000008rp39A12F_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "上海"
+            },
+            {
+              "id": 14,
+              "kwd": "杭州",
+              "picUrl": "https://dimg07.c-ctrip.com/images/100h180000013qm0m8FCA_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "杭州"
+            },
+            {
+              "id": 686,
+              "kwd": "安吉",
+              "picUrl": "https://dimg04.c-ctrip.com/images/100a1f000001grmbd39CE_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "安吉"
+            },
+            {
+              "id": 11,
+              "kwd": "苏州",
+              "picUrl": "https://dimg04.c-ctrip.com/images/100o1f000001gp41vC05F_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "园林",
+                  "type": 1
+                }
+              ],
+              "text": "苏州"
+            },
+            {
+              "id": 479,
+              "kwd": "舟山",
+              "picUrl": "https://dimg07.c-ctrip.com/images/100j1f000001gpsvo23F2_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "舟山"
+            },
+            {
+              "id": 120061,
+              "kwd": "黄山",
+              "picUrl": "https://dimg01.c-ctrip.com/images/100l0g000000884py6BDE_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "登高",
+                  "type": 1
+                }
+              ],
+              "text": "黄山"
+            },
+            {
+              "id": 17,
+              "kwd": "千岛湖",
+              "picUrl": "https://dimg06.c-ctrip.com/images/10051f000001gsrop80DA_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "千岛湖"
+            },
+            {
+              "id": 9,
+              "kwd": "南京",
+              "picUrl": "https://dimg08.c-ctrip.com/images/10061f000001gqy94D0A9_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "南京"
+            },
+            {
+              "id": 83,
+              "kwd": "宁波",
+              "picUrl": "https://dimg05.c-ctrip.com/images/100511000000rbgpl3A4B_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "宁波"
+            }
+          ],
+          "id": 2001,
+          "text": "热门目的地"
+        },
+        {
+          "child": [
+            {
+              "id": 10,
+              "kwd": "无锡",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "无锡"
+            },
+            {
+              "id": 446,
+              "kwd": "婺源",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "油菜花",
+                  "type": 1
+                }
+              ],
+              "text": "婺源"
+            },
+            {
+              "id": 12,
+              "kwd": "扬州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "扬州"
+            },
+            {
+              "id": 598,
+              "kwd": "溧阳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "溧阳"
+            },
+            {
+              "id": 68,
+              "kwd": "湖州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "湖州"
+            },
+            {
+              "id": 196,
+              "kwd": "合肥",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "合肥"
+            },
+            {
+              "id": 206,
+              "kwd": "常州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "常州"
+            },
+            {
+              "id": 441,
+              "kwd": "丽水",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "丽水"
+            },
+            {
+              "id": 22,
+              "kwd": "武夷山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "武夷山"
+            },
+            {
+              "id": 402,
+              "kwd": "台州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "台州"
+            },
+            {
+              "id": 571,
+              "kwd": "崇明区",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "崇明区"
+            },
+            {
+              "id": 493,
+              "kwd": "盐城",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "盐城"
+            },
+            {
+              "id": 82,
+              "kwd": "嵊泗",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "嵊泗"
+            },
+            {
+              "id": 272,
+              "kwd": "嘉兴",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "嘉兴"
+            },
+            {
+              "id": 18,
+              "kwd": "绍兴",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "绍兴"
+            },
+            {
+              "id": 203,
+              "kwd": "张家港",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "张家港"
+            },
+            {
+              "id": 688,
+              "kwd": "桐庐",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "桐庐"
+            },
+            {
+              "id": 238,
+              "kwd": "连云港",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "连云港"
+            },
+            {
+              "id": 1021,
+              "kwd": "缙云",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "缙云"
+            },
+            {
+              "id": 13,
+              "kwd": "镇江",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "镇江"
+            },
+            {
+              "id": 174,
+              "kwd": "衢州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "衢州"
+            },
+            {
+              "id": 543,
+              "kwd": "慈溪",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "慈溪"
+            },
+            {
+              "id": 494,
+              "kwd": "泰州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "泰州"
+            },
+            {
+              "id": 153,
+              "kwd": "温州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "温州"
+            },
+            {
+              "id": 689,
+              "kwd": "宁海",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "宁海"
+            },
+            {
+              "id": 101,
+              "kwd": "常熟",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "常熟"
+            },
+            {
+              "id": 98,
+              "kwd": "余姚",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "余姚"
+            },
+            {
+              "id": 1445218,
+              "kwd": "松江区",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "松江区"
+            },
+            {
+              "id": 690,
+              "kwd": "诸暨",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "诸暨"
+            },
+            {
+              "id": 179,
+              "kwd": "安庆",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "安庆"
+            }
+          ],
+          "id": 2002,
+          "text": "周边经典目的地"
+        },
+        {
+          "child": [
+            {
+              "id": 16,
+              "kwd": "普陀山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "普陀山"
+            },
+            {
+              "id": 508,
+              "kwd": "乌镇",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "古镇",
+                  "type": 1
+                }
+              ],
+              "text": "乌镇"
+            },
+            {
+              "id": 87,
+              "kwd": "莫干山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "莫干山"
+            },
+            {
+              "id": 1437,
+              "kwd": "天目湖",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "天目湖"
+            },
+            {
+              "id": 23822661,
+              "kwd": "拈花湾",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "拈花湾"
+            },
+            {
+              "id": 120550,
+              "kwd": "大明山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "大明山"
+            },
+            {
+              "id": 182,
+              "kwd": "九华山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "九华山"
+            },
+            {
+              "id": 63611171,
+              "kwd": "云上草原",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "云上草原"
+            },
+            {
+              "id": 1446916,
+              "kwd": "迪士尼度假区",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "迪士尼度假区"
+            },
+            {
+              "id": 15,
+              "kwd": "西塘",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "古镇",
+                  "type": 1
+                }
+              ],
+              "text": "西塘"
+            },
+            {
+              "id": 1096,
+              "kwd": "横店影视城",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "横店影视城"
+            },
+            {
+              "id": 159,
+              "kwd": "三清山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "三清山"
+            },
+            {
+              "id": 120416,
+              "kwd": "东极岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "东极岛"
+            },
+            {
+              "id": 120537,
+              "kwd": "汤山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "汤山"
+            },
+            {
+              "id": 10758352,
+              "kwd": "汤山温泉",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "汤山温泉"
+            },
+            {
+              "id": 120496,
+              "kwd": "宏村",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "宏村"
+            },
+            {
+              "id": 176,
+              "kwd": "朱家角",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "朱家角"
+            },
+            {
+              "id": 217,
+              "kwd": "雁荡山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "雁荡山"
+            },
+            {
+              "id": 78919062,
+              "kwd": "云上草原星空滑雪场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "云上草原星空滑雪场"
+            },
+            {
+              "id": 1435,
+              "kwd": "天目山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "天目山"
+            },
+            {
+              "id": 75624,
+              "kwd": "上海野生动物园",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "上海野生动物园"
+            },
+            {
+              "id": 10559177,
+              "kwd": "滴水湖",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "滴水湖"
+            },
+            {
+              "id": 10758646,
+              "kwd": "天目湖御水温泉",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "天目湖御水温泉"
+            },
+            {
+              "id": 161,
+              "kwd": "天柱山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "天柱山"
+            },
+            {
+              "id": 95,
+              "kwd": "同里",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "水乡",
+                  "type": 1
+                }
+              ],
+              "text": "同里"
+            },
+            {
+              "id": 81,
+              "kwd": "周庄",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "第一水乡",
+                  "type": 1
+                }
+              ],
+              "text": "周庄"
+            },
+            {
+              "id": 30745956,
+              "kwd": "上海中心大厦上海之巅观光厅",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "上海中心大厦上海之巅观光厅"
+            },
+            {
+              "id": 85528,
+              "kwd": "江南天池",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "江南天池"
+            },
+            {
+              "id": 10758879,
+              "kwd": "大明山万松岭滑雪场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "大明山万松岭滑雪场"
+            },
+            {
+              "id": 10758886,
+              "kwd": "汤山一号温泉度假区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "汤山一号温泉度假区"
+            }
+          ],
+          "id": 2003,
+          "text": "周边热门景点"
+        }
+      ]
+    },
+    {
+      "category": 3,
+      "categoryName": "境内",
+      "destAreaList": [
+        {
+          "child": [
+            {
+              "id": 61,
+              "kwd": "三亚",
+              "picUrl": "https://dimg07.c-ctrip.com/images/100o1f000001gp6di1DB0_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "人气",
+                  "type": 1
+                }
+              ],
+              "text": "三亚"
+            },
+            {
+              "id": 30,
+              "kwd": "西双版纳",
+              "picUrl": "https://dimg01.c-ctrip.com/images/fd/tg/g4/M06/9C/D8/CggYHFXRUw2AAJrSABIhk3trj7Y885_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "西双版纳"
+            },
+            {
+              "id": 268,
+              "kwd": "长白山",
+              "picUrl": "https://dimg05.c-ctrip.com/images/100c0q000000gffox4CBA_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "长白山"
+            },
+            {
+              "id": 32,
+              "kwd": "丽江",
+              "picUrl": "https://dimg05.c-ctrip.com/images/100b11000000qcd4zEAD7_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "人气",
+                  "type": 1
+                }
+              ],
+              "text": "丽江"
+            },
+            {
+              "id": 151,
+              "kwd": "哈尔滨",
+              "picUrl": "https://dimg01.c-ctrip.com/images/100s0z000000ng5sn3ED6_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "哈尔滨"
+            },
+            {
+              "id": 152,
+              "kwd": "广州",
+              "picUrl": "https://dimg06.c-ctrip.com/images/100c180000014rkpq4C68_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "美食",
+                  "type": 1
+                }
+              ],
+              "text": "广州"
+            },
+            {
+              "id": 21,
+              "kwd": "厦门",
+              "picUrl": "https://dimg01.c-ctrip.com/images/100w1f000001gwb0k4589_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "厦门"
+            },
+            {
+              "id": 140,
+              "kwd": "北海",
+              "picUrl": "https://dimg05.c-ctrip.com/images/100p0e00000076fm26A57_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "北海"
+            },
+            {
+              "id": 696,
+              "kwd": "腾冲",
+              "picUrl": "https://dimg05.c-ctrip.com/images/10070q000000grw8lD8EC_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "腾冲"
+            }
+          ],
+          "id": 3001,
+          "text": "热门目的地"
+        },
+        {
+          "child": [
+            {
+              "id": 1,
+              "kwd": "北京",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "北京"
+            },
+            {
+              "id": 2,
+              "kwd": "上海",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "上海"
+            },
+            {
+              "id": 154,
+              "kwd": "天津",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "天津"
+            },
+            {
+              "id": 158,
+              "kwd": "重庆",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "美食",
+                  "type": 1
+                }
+              ],
+              "text": "重庆"
+            }
+          ],
+          "id": 3008,
+          "text": "直辖市"
+        },
+        {
+          "child": [
+            {
+              "id": 16,
+              "kwd": "普陀山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "普陀山"
+            },
+            {
+              "id": 14,
+              "kwd": "杭州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "杭州"
+            },
+            {
+              "id": 686,
+              "kwd": "安吉",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "安吉"
+            },
+            {
+              "id": 479,
+              "kwd": "舟山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "舟山"
+            },
+            {
+              "id": 17,
+              "kwd": "千岛湖",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "千岛湖"
+            },
+            {
+              "id": 83,
+              "kwd": "宁波",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "宁波"
+            },
+            {
+              "id": 508,
+              "kwd": "乌镇",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "古镇",
+                  "type": 1
+                }
+              ],
+              "text": "乌镇"
+            },
+            {
+              "id": 68,
+              "kwd": "湖州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "湖州"
+            },
+            {
+              "id": 87,
+              "kwd": "莫干山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "莫干山"
+            },
+            {
+              "id": 441,
+              "kwd": "丽水",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "丽水"
+            },
+            {
+              "id": 120550,
+              "kwd": "大明山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "大明山"
+            },
+            {
+              "id": 402,
+              "kwd": "台州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "台州"
+            },
+            {
+              "id": 63611171,
+              "kwd": "云上草原",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "云上草原"
+            },
+            {
+              "id": 82,
+              "kwd": "嵊泗",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "嵊泗"
+            },
+            {
+              "id": 272,
+              "kwd": "嘉兴",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "嘉兴"
+            },
+            {
+              "id": 15,
+              "kwd": "西塘",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "古镇",
+                  "type": 1
+                }
+              ],
+              "text": "西塘"
+            },
+            {
+              "id": 1096,
+              "kwd": "横店影视城",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "横店影视城"
+            },
+            {
+              "id": 18,
+              "kwd": "绍兴",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "绍兴"
+            }
+          ],
+          "id": 3009,
+          "text": "浙江"
+        },
+        {
+          "child": [
+            {
+              "id": 28,
+              "kwd": "桂林",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "桂林"
+            },
+            {
+              "id": 166,
+              "kwd": "南宁",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "南宁"
+            },
+            {
+              "id": 120063,
+              "kwd": "涠洲岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "涠洲岛"
+            },
+            {
+              "id": 702,
+              "kwd": "阳朔",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "阳朔"
+            },
+            {
+              "id": 837,
+              "kwd": "崇左",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "崇左"
+            },
+            {
+              "id": 77487,
+              "kwd": "德天跨国瀑布景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "德天跨国瀑布景区"
+            },
+            {
+              "id": 970,
+              "kwd": "龙脊梯田",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "龙脊梯田"
+            },
+            {
+              "id": 698,
+              "kwd": "防城港",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "防城港"
+            },
+            {
+              "id": 3041,
+              "kwd": "巴马",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "巴马"
+            },
+            {
+              "id": 75898,
+              "kwd": "漓江",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "漓江"
+            },
+            {
+              "id": 967,
+              "kwd": "靖西",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "靖西"
+            },
+            {
+              "id": 77771,
+              "kwd": "北海银滩旅游度假区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "北海银滩旅游度假区"
+            },
+            {
+              "id": 524,
+              "kwd": "百色",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "百色"
+            },
+            {
+              "id": 10758223,
+              "kwd": "龙胜温泉",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "龙胜温泉"
+            },
+            {
+              "id": 711,
+              "kwd": "贵港",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "贵港"
+            },
+            {
+              "id": 70351428,
+              "kwd": "北海涠洲岛",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "北海涠洲岛"
+            },
+            {
+              "id": 963,
+              "kwd": "大新",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "大新"
+            },
+            {
+              "id": 143,
+              "kwd": "柳州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "柳州"
+            }
+          ],
+          "id": 3010,
+          "text": "广西"
+        },
+        {
+          "child": [
+            {
+              "id": 446,
+              "kwd": "婺源",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "油菜花",
+                  "type": 1
+                }
+              ],
+              "text": "婺源"
+            },
+            {
+              "id": 159,
+              "kwd": "三清山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "三清山"
+            },
+            {
+              "id": 2390,
+              "kwd": "庐山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "庐山"
+            },
+            {
+              "id": 405,
+              "kwd": "景德镇",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "景德镇"
+            },
+            {
+              "id": 1445145,
+              "kwd": "武功山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "武功山"
+            },
+            {
+              "id": 743,
+              "kwd": "宜春",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "宜春"
+            },
+            {
+              "id": 171,
+              "kwd": "井冈山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "井冈山"
+            },
+            {
+              "id": 473,
+              "kwd": "赣州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "赣州"
+            },
+            {
+              "id": 160,
+              "kwd": "龙虎山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "龙虎山"
+            },
+            {
+              "id": 175,
+              "kwd": "南昌",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "南昌"
+            },
+            {
+              "id": 24826548,
+              "kwd": "南昌融创乐园",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "南昌融创乐园"
+            },
+            {
+              "id": 101782,
+              "kwd": "萍乡武功山风景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "萍乡武功山风景区"
+            },
+            {
+              "id": 876,
+              "kwd": "吉安",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "吉安"
+            },
+            {
+              "id": 1159,
+              "kwd": "瑞金",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "瑞金"
+            },
+            {
+              "id": 10559226,
+              "kwd": "庐山天沐温泉",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "庐山天沐温泉"
+            },
+            {
+              "id": 46259336,
+              "kwd": "庐山滑雪场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "庐山滑雪场"
+            },
+            {
+              "id": 547,
+              "kwd": "上饶",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "上饶"
+            },
+            {
+              "id": 77653,
+              "kwd": "滕王阁",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "滕王阁"
+            }
+          ],
+          "id": 3011,
+          "text": "江西"
+        },
+        {
+          "child": [
+            {
+              "id": 33,
+              "kwd": "贵阳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "贵阳"
+            },
+            {
+              "id": 120531,
+              "kwd": "西江千户苗寨",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "西江千户苗寨"
+            },
+            {
+              "id": 80846,
+              "kwd": "梵净山",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "梵净山"
+            },
+            {
+              "id": 143874,
+              "kwd": "黄果树",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "黄果树"
+            },
+            {
+              "id": 659,
+              "kwd": "荔波",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "荔波"
+            },
+            {
+              "id": 204,
+              "kwd": "遵义",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "遵义"
+            },
+            {
+              "id": 679,
+              "kwd": "六盘水",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "六盘水"
+            },
+            {
+              "id": 1840,
+              "kwd": "镇远",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "镇远"
+            },
+            {
+              "id": 680,
+              "kwd": "铜仁",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "铜仁"
+            },
+            {
+              "id": 491,
+              "kwd": "凯里",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "凯里"
+            },
+            {
+              "id": 678,
+              "kwd": "都匀",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "都匀"
+            },
+            {
+              "id": 86372,
+              "kwd": "肇兴侗寨",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "肇兴侗寨"
+            },
+            {
+              "id": 79814,
+              "kwd": "黄果树瀑布",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "黄果树瀑布"
+            },
+            {
+              "id": 521,
+              "kwd": "毕节",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "毕节"
+            },
+            {
+              "id": 518,
+              "kwd": "安顺",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "安顺"
+            },
+            {
+              "id": 2375,
+              "kwd": "黔东南",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "黔东南"
+            },
+            {
+              "id": 519,
+              "kwd": "兴义",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "兴义"
+            },
+            {
+              "id": 80948,
+              "kwd": "仁怀茅台镇",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "仁怀茅台镇"
+            }
+          ],
+          "id": 3012,
+          "text": "贵州"
+        },
+        {
+          "child": [
+            {
+              "id": 216,
+              "kwd": "长春",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "长春"
+            },
+            {
+              "id": 415,
+              "kwd": "延边",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "延边"
+            },
+            {
+              "id": 475,
+              "kwd": "延吉",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "延吉"
+            },
+            {
+              "id": 90780,
+              "kwd": "长白山滑雪场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "长白山滑雪场"
+            },
+            {
+              "id": 87316,
+              "kwd": "雾凇岛",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "雾凇岛"
+            },
+            {
+              "id": 10759415,
+              "kwd": "万达长白山国际滑雪场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "万达长白山国际滑雪场"
+            },
+            {
+              "id": 79605489,
+              "kwd": "万达长白山国际度假区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "万达长白山国际度假区"
+            },
+            {
+              "id": 77992,
+              "kwd": "长白山天池",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "长白山天池"
+            },
+            {
+              "id": 79914,
+              "kwd": "松花湖滑雪场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "松花湖滑雪场"
+            },
+            {
+              "id": 120440,
+              "kwd": "长白山北坡",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "长白山北坡"
+            },
+            {
+              "id": 871,
+              "kwd": "白山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "白山"
+            },
+            {
+              "id": 267,
+              "kwd": "吉林市",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "吉林市"
+            },
+            {
+              "id": 30635249,
+              "kwd": "长白山鲁能胜地滑雪场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "长白山鲁能胜地滑雪场"
+            },
+            {
+              "id": 10541173,
+              "kwd": "朝鲜族民俗风情园",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "朝鲜族民俗风情园"
+            },
+            {
+              "id": 97660,
+              "kwd": "长白山北坡景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "长白山北坡景区"
+            },
+            {
+              "id": 18458836,
+              "kwd": "万科松花湖国际度假区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "万科松花湖国际度假区"
+            },
+            {
+              "id": 120439,
+              "kwd": "长白山西坡",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "长白山西坡"
+            },
+            {
+              "id": 2461,
+              "kwd": "珲春",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "珲春"
+            }
+          ],
+          "id": 3013,
+          "text": "吉林"
+        },
+        {
+          "child": [
+            {
+              "id": 7,
+              "kwd": "西安",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "兵马俑",
+                  "type": 1
+                }
+              ],
+              "text": "西安"
+            },
+            {
+              "id": 486,
+              "kwd": "汉中",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "汉中"
+            },
+            {
+              "id": 71535645,
+              "kwd": "龙头山国际旅游度假区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "龙头山国际旅游度假区"
+            },
+            {
+              "id": 423,
+              "kwd": "延安",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "延安"
+            },
+            {
+              "id": 183,
+              "kwd": "华山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "华山"
+            },
+            {
+              "id": 36231733,
+              "kwd": "雨岔大峡谷",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "雨岔大峡谷"
+            },
+            {
+              "id": 75682,
+              "kwd": "秦始皇兵马俑博物馆",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "秦始皇兵马俑博物馆"
+            },
+            {
+              "id": 84612,
+              "kwd": "太白山国家森林公园",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "太白山国家森林公园"
+            },
+            {
+              "id": 79235,
+              "kwd": "壶口瀑布",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "壶口瀑布"
+            },
+            {
+              "id": 88954644,
+              "kwd": "西安千古情",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "西安千古情"
+            },
+            {
+              "id": 120420,
+              "kwd": "韩城",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "韩城"
+            },
+            {
+              "id": 91705,
+              "kwd": "秦岭",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "秦岭"
+            },
+            {
+              "id": 632,
+              "kwd": "咸阳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "咸阳"
+            },
+            {
+              "id": 10557626,
+              "kwd": "大唐不夜城",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "大唐不夜城"
+            },
+            {
+              "id": 485,
+              "kwd": "榆林",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "榆林"
+            },
+            {
+              "id": 84611,
+              "kwd": "法门寺",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "法门寺"
+            },
+            {
+              "id": 2780,
+              "kwd": "潼关",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "潼关"
+            },
+            {
+              "id": 71360193,
+              "kwd": "华山北峰索道",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "华山北峰索道"
+            }
+          ],
+          "id": 3014,
+          "text": "陕西"
+        },
+        {
+          "child": [
+            {
+              "id": 120061,
+              "kwd": "黄山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "登高",
+                  "type": 1
+                }
+              ],
+              "text": "黄山"
+            },
+            {
+              "id": 196,
+              "kwd": "合肥",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "合肥"
+            },
+            {
+              "id": 182,
+              "kwd": "九华山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "九华山"
+            },
+            {
+              "id": 120496,
+              "kwd": "宏村",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "宏村"
+            },
+            {
+              "id": 179,
+              "kwd": "安庆",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "安庆"
+            },
+            {
+              "id": 457,
+              "kwd": "芜湖",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "芜湖"
+            },
+            {
+              "id": 99921,
+              "kwd": "芜湖方特梦幻王国",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "芜湖方特梦幻王国"
+            },
+            {
+              "id": 79656,
+              "kwd": "天堂寨",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "天堂寨"
+            },
+            {
+              "id": 502,
+              "kwd": "六安",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "六安"
+            },
+            {
+              "id": 19,
+              "kwd": "黄山风景区",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "黄山风景区"
+            },
+            {
+              "id": 527,
+              "kwd": "歙县",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "歙县"
+            },
+            {
+              "id": 10758153,
+              "kwd": "黄山温泉",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "黄山温泉"
+            },
+            {
+              "id": 80324,
+              "kwd": "塔川",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "塔川"
+            },
+            {
+              "id": 825,
+              "kwd": "池州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "池州"
+            },
+            {
+              "id": 84645,
+              "kwd": "齐云山",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "齐云山"
+            },
+            {
+              "id": 101490,
+              "kwd": "宏村景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "宏村景区"
+            },
+            {
+              "id": 2625,
+              "kwd": "休宁",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "休宁"
+            },
+            {
+              "id": 528,
+              "kwd": "黟县",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "黟县"
+            }
+          ],
+          "id": 3015,
+          "text": "安徽"
+        },
+        {
+          "child": [
+            {
+              "id": 983,
+              "kwd": "漠河",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "漠河"
+            },
+            {
+              "id": 815,
+              "kwd": "亚布力滑雪旅游度假区",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "亚布力滑雪旅游度假区"
+            },
+            {
+              "id": 80633,
+              "kwd": "哈尔滨冰雪大世界",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "哈尔滨冰雪大世界"
+            },
+            {
+              "id": 264,
+              "kwd": "牡丹江",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "牡丹江"
+            },
+            {
+              "id": 10558869,
+              "kwd": "中国雪乡",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "中国雪乡"
+            },
+            {
+              "id": 86672,
+              "kwd": "北极村",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "北极村"
+            },
+            {
+              "id": 396,
+              "kwd": "大兴安岭",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "大兴安岭"
+            },
+            {
+              "id": 395,
+              "kwd": "齐齐哈尔",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "齐齐哈尔"
+            },
+            {
+              "id": 10758865,
+              "kwd": "亚布力雪山滑雪场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "亚布力雪山滑雪场"
+            },
+            {
+              "id": 498,
+              "kwd": "伊春",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "伊春"
+            },
+            {
+              "id": 501,
+              "kwd": "佳木斯",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "佳木斯"
+            },
+            {
+              "id": 265,
+              "kwd": "黑河",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "黑河"
+            },
+            {
+              "id": 15490534,
+              "kwd": "雪乡大雪谷",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "雪乡大雪谷"
+            },
+            {
+              "id": 33520506,
+              "kwd": "哈尔滨融创雪世界",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "哈尔滨融创雪世界"
+            },
+            {
+              "id": 91438,
+              "kwd": "羊草山",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "羊草山"
+            },
+            {
+              "id": 2240,
+              "kwd": "海林",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "海林"
+            },
+            {
+              "id": 857,
+              "kwd": "五大连池",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "五大连池"
+            },
+            {
+              "id": 77073,
+              "kwd": "松花江",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "松花江"
+            }
+          ],
+          "id": 3016,
+          "text": "黑龙江"
+        },
+        {
+          "child": [
+            {
+              "id": 497,
+              "kwd": "张家口",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "张家口"
+            },
+            {
+              "id": 199,
+              "kwd": "石家庄",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "石家庄"
+            },
+            {
+              "id": 132,
+              "kwd": "秦皇岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "秦皇岛"
+            },
+            {
+              "id": 1938,
+              "kwd": "北戴河",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "北戴河"
+            },
+            {
+              "id": 495,
+              "kwd": "邯郸",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "邯郸"
+            },
+            {
+              "id": 135,
+              "kwd": "承德",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "承德"
+            },
+            {
+              "id": 459,
+              "kwd": "保定",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "保定"
+            },
+            {
+              "id": 96134,
+              "kwd": "万龙滑雪场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "万龙滑雪场"
+            },
+            {
+              "id": 200,
+              "kwd": "唐山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "唐山"
+            },
+            {
+              "id": 24032356,
+              "kwd": "太舞滑雪小镇",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "太舞滑雪小镇"
+            },
+            {
+              "id": 2581,
+              "kwd": "正定",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "正定"
+            },
+            {
+              "id": 30517082,
+              "kwd": "富龙滑雪场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "富龙滑雪场"
+            },
+            {
+              "id": 1139,
+              "kwd": "平山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "平山"
+            },
+            {
+              "id": 76570,
+              "kwd": "山海关",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "山海关"
+            },
+            {
+              "id": 582,
+              "kwd": "廊坊",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "廊坊"
+            },
+            {
+              "id": 76725,
+              "kwd": "木兰围场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [
+                {
+                  "tagName": "草原",
+                  "type": 1
+                }
+              ],
+              "text": "木兰围场"
+            },
+            {
+              "id": 24652400,
+              "kwd": "正定荣国府",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "正定荣国府"
+            },
+            {
+              "id": 97876,
+              "kwd": "白鹿温泉",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "白鹿温泉"
+            }
+          ],
+          "id": 3017,
+          "text": "河北"
+        },
+        {
+          "child": [
+            {
+              "id": 170,
+              "kwd": "烟台",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "烟台"
+            },
+            {
+              "id": 169,
+              "kwd": "威海",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "威海"
+            },
+            {
+              "id": 5,
+              "kwd": "青岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "青岛"
+            },
+            {
+              "id": 128,
+              "kwd": "济南",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "济南"
+            },
+            {
+              "id": 622,
+              "kwd": "日照",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "日照"
+            },
+            {
+              "id": 6,
+              "kwd": "泰山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "泰山"
+            },
+            {
+              "id": 93212,
+              "kwd": "台儿庄古城",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "台儿庄古城"
+            },
+            {
+              "id": 656,
+              "kwd": "枣庄",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "枣庄"
+            },
+            {
+              "id": 899,
+              "kwd": "荣成",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "荣成"
+            },
+            {
+              "id": 90704,
+              "kwd": "九如山度假风景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "九如山度假风景区"
+            },
+            {
+              "id": 76527,
+              "kwd": "大明湖景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "大明湖景区"
+            },
+            {
+              "id": 78030,
+              "kwd": "蓬莱阁",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "蓬莱阁"
+            },
+            {
+              "id": 1371,
+              "kwd": "滕州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "滕州"
+            },
+            {
+              "id": 129,
+              "kwd": "曲阜",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "曲阜"
+            },
+            {
+              "id": 24650468,
+              "kwd": "黄岛",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "黄岛"
+            },
+            {
+              "id": 1188,
+              "kwd": "海阳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "海阳"
+            },
+            {
+              "id": 85745,
+              "kwd": "崂山",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "崂山"
+            },
+            {
+              "id": 746,
+              "kwd": "泰安",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "泰安"
+            }
+          ],
+          "id": 3018,
+          "text": "山东"
+        },
+        {
+          "child": [
+            {
+              "id": 77806,
+              "kwd": "老君山景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "老君山景区"
+            },
+            {
+              "id": 198,
+              "kwd": "洛阳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "洛阳"
+            },
+            {
+              "id": 591,
+              "kwd": "南阳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "南阳"
+            },
+            {
+              "id": 120494,
+              "kwd": "云台山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "云台山"
+            },
+            {
+              "id": 157,
+              "kwd": "郑州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "郑州"
+            },
+            {
+              "id": 412,
+              "kwd": "安阳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "安阳"
+            },
+            {
+              "id": 663,
+              "kwd": "焦作",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "焦作"
+            },
+            {
+              "id": 1930,
+              "kwd": "栾川",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "栾川"
+            },
+            {
+              "id": 522,
+              "kwd": "三门峡",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "三门峡"
+            },
+            {
+              "id": 165,
+              "kwd": "开封",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "开封"
+            },
+            {
+              "id": 474,
+              "kwd": "新乡",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "新乡"
+            },
+            {
+              "id": 1445029,
+              "kwd": "万仙山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "万仙山"
+            },
+            {
+              "id": 1445188,
+              "kwd": "龙门石窟",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "龙门石窟"
+            },
+            {
+              "id": 1445019,
+              "kwd": "少林寺",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "少林寺"
+            },
+            {
+              "id": 101969,
+              "kwd": "太行大峡谷景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "太行大峡谷景区"
+            },
+            {
+              "id": 10548627,
+              "kwd": "郑州海洋馆",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "郑州海洋馆"
+            },
+            {
+              "id": 70528813,
+              "kwd": "建业·华谊兄弟电影小镇",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "建业·华谊兄弟电影小镇"
+            },
+            {
+              "id": 1014,
+              "kwd": "登封",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "登封"
+            }
+          ],
+          "id": 3019,
+          "text": "河南"
+        },
+        {
+          "child": [
+            {
+              "id": 27,
+              "kwd": "珠海",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "珠海"
+            },
+            {
+              "id": 26,
+              "kwd": "深圳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "深圳"
+            },
+            {
+              "id": 215,
+              "kwd": "汕头",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "汕头"
+            },
+            {
+              "id": 213,
+              "kwd": "惠州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "惠州"
+            },
+            {
+              "id": 207,
+              "kwd": "佛山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "佛山"
+            },
+            {
+              "id": 467,
+              "kwd": "潮州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "潮州"
+            },
+            {
+              "id": 202,
+              "kwd": "湛江",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "湛江"
+            },
+            {
+              "id": 79920,
+              "kwd": "南澳岛",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "南澳岛"
+            },
+            {
+              "id": 10762535,
+              "kwd": "珠海长隆海洋王国",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "珠海长隆海洋王国"
+            },
+            {
+              "id": 2025172,
+              "kwd": "潮汕地区",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "潮汕地区"
+            },
+            {
+              "id": 517,
+              "kwd": "清远",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "清远"
+            },
+            {
+              "id": 350,
+              "kwd": "河源",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "河源"
+            },
+            {
+              "id": 2020086,
+              "kwd": "广州长隆旅游度假区",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "广州长隆旅游度假区"
+            },
+            {
+              "id": 10758155,
+              "kwd": "御温泉",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "御温泉"
+            },
+            {
+              "id": 222,
+              "kwd": "韶关",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "韶关"
+            },
+            {
+              "id": 523,
+              "kwd": "梅州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "梅州"
+            },
+            {
+              "id": 958,
+              "kwd": "南澳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "南澳"
+            },
+            {
+              "id": 835,
+              "kwd": "揭阳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "揭阳"
+            }
+          ],
+          "id": 3020,
+          "text": "广东"
+        },
+        {
+          "child": [
+            {
+              "id": 117,
+              "kwd": "乌鲁木齐",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "乌鲁木齐"
+            },
+            {
+              "id": 427,
+              "kwd": "阿勒泰",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "阿勒泰"
+            },
+            {
+              "id": 10758687,
+              "kwd": "可可托海景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "可可托海景区"
+            },
+            {
+              "id": 76744,
+              "kwd": "赛里木湖",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "赛里木湖"
+            },
+            {
+              "id": 115,
+              "kwd": "伊犁",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "伊犁"
+            },
+            {
+              "id": 429,
+              "kwd": "库尔勒",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "库尔勒"
+            },
+            {
+              "id": 816,
+              "kwd": "喀纳斯",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "喀纳斯"
+            },
+            {
+              "id": 22865725,
+              "kwd": "独库公路",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "独库公路"
+            },
+            {
+              "id": 21059492,
+              "kwd": "丝绸之路国际滑雪场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "丝绸之路国际滑雪场"
+            },
+            {
+              "id": 1345,
+              "kwd": "库车",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "库车"
+            },
+            {
+              "id": 56580159,
+              "kwd": "将军山滑雪场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "将军山滑雪场"
+            },
+            {
+              "id": 124,
+              "kwd": "喀什",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "喀什"
+            },
+            {
+              "id": 2025369,
+              "kwd": "北疆",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "北疆"
+            },
+            {
+              "id": 35,
+              "kwd": "吐鲁番",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "吐鲁番"
+            },
+            {
+              "id": 2025380,
+              "kwd": "南疆",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "南疆"
+            },
+            {
+              "id": 82878,
+              "kwd": "禾木风景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "禾木风景区"
+            },
+            {
+              "id": 920,
+              "kwd": "阿克苏",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "阿克苏"
+            },
+            {
+              "id": 10522927,
+              "kwd": "乌鲁木齐天山大峡谷",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "乌鲁木齐天山大峡谷"
+            }
+          ],
+          "id": 3021,
+          "text": "新疆"
+        },
+        {
+          "child": [
+            {
+              "id": 184,
+              "kwd": "五台山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "五台山"
+            },
+            {
+              "id": 167,
+              "kwd": "太原",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "太原"
+            },
+            {
+              "id": 365,
+              "kwd": "平遥",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "平遥"
+            },
+            {
+              "id": 275,
+              "kwd": "大同",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "大同"
+            },
+            {
+              "id": 78482,
+              "kwd": "黄河壶口瀑布风景名胜区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "黄河壶口瀑布风景名胜区"
+            },
+            {
+              "id": 94760,
+              "kwd": "平遥古城",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "平遥古城"
+            },
+            {
+              "id": 84031,
+              "kwd": "皇城相府",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "皇城相府"
+            },
+            {
+              "id": 83199,
+              "kwd": "晋祠博物馆",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "晋祠博物馆"
+            },
+            {
+              "id": 78473,
+              "kwd": "云冈石窟",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "云冈石窟"
+            },
+            {
+              "id": 903,
+              "kwd": "朔州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "朔州"
+            },
+            {
+              "id": 397,
+              "kwd": "运城",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "运城"
+            },
+            {
+              "id": 901,
+              "kwd": "长治",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "长治"
+            },
+            {
+              "id": 783,
+              "kwd": "忻州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "忻州"
+            },
+            {
+              "id": 79850,
+              "kwd": "悬空寺",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "悬空寺"
+            },
+            {
+              "id": 665,
+              "kwd": "晋城",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "晋城"
+            },
+            {
+              "id": 1446115,
+              "kwd": "五台",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "五台"
+            },
+            {
+              "id": 318,
+              "kwd": "临汾",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "临汾"
+            },
+            {
+              "id": 89631,
+              "kwd": "雁门关",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "雁门关"
+            }
+          ],
+          "id": 3022,
+          "text": "山西"
+        },
+        {
+          "child": [
+            {
+              "id": 36,
+              "kwd": "拉萨",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "拉萨"
+            },
+            {
+              "id": 126,
+              "kwd": "林芝",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "林芝"
+            },
+            {
+              "id": 99,
+              "kwd": "阿里",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "阿里"
+            },
+            {
+              "id": 100,
+              "kwd": "日喀则",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "日喀则"
+            },
+            {
+              "id": 75936,
+              "kwd": "布达拉宫",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "布达拉宫"
+            },
+            {
+              "id": 84574,
+              "kwd": "来古冰川",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "来古冰川"
+            },
+            {
+              "id": 33524166,
+              "kwd": "纳木措圣象天门",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "纳木措圣象天门"
+            },
+            {
+              "id": 78547,
+              "kwd": "纳木措",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "纳木措"
+            },
+            {
+              "id": 120397,
+              "kwd": "墨脱",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "墨脱"
+            },
+            {
+              "id": 95014,
+              "kwd": "珠峰大本营",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "珠峰大本营"
+            },
+            {
+              "id": 10758151,
+              "kwd": "冈仁波齐",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "冈仁波齐"
+            },
+            {
+              "id": 76352,
+              "kwd": "珠穆朗玛峰",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "珠穆朗玛峰"
+            },
+            {
+              "id": 339,
+              "kwd": "山南",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "山南"
+            },
+            {
+              "id": 120408,
+              "kwd": "贡嘎",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "贡嘎"
+            },
+            {
+              "id": 2436,
+              "kwd": "波密",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "波密"
+            },
+            {
+              "id": 919,
+              "kwd": "那曲",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "那曲"
+            },
+            {
+              "id": 94904,
+              "kwd": "普莫雍错",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "普莫雍错"
+            },
+            {
+              "id": 559,
+              "kwd": "昌都",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "昌都"
+            }
+          ],
+          "id": 3023,
+          "text": "西藏"
+        },
+        {
+          "child": [
+            {
+              "id": 8,
+              "kwd": "敦煌",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "敦煌"
+            },
+            {
+              "id": 231,
+              "kwd": "兰州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "兰州"
+            },
+            {
+              "id": 426,
+              "kwd": "甘南",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "原始藏风",
+                  "type": 1
+                }
+              ],
+              "text": "甘南"
+            },
+            {
+              "id": 283,
+              "kwd": "张掖",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "丹霞地貌",
+                  "type": 1
+                }
+              ],
+              "text": "张掖"
+            },
+            {
+              "id": 75693,
+              "kwd": "莫高窟",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "莫高窟"
+            },
+            {
+              "id": 284,
+              "kwd": "嘉峪关",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "嘉峪关"
+            },
+            {
+              "id": 75690,
+              "kwd": "鸣沙山月牙泉",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "鸣沙山月牙泉"
+            },
+            {
+              "id": 1491,
+              "kwd": "陇南",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "陇南"
+            },
+            {
+              "id": 1446831,
+              "kwd": "郎木寺",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "郎木寺"
+            },
+            {
+              "id": 84153,
+              "kwd": "张掖七彩丹霞旅游景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "张掖七彩丹霞旅游景区"
+            },
+            {
+              "id": 285,
+              "kwd": "天水",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "天水"
+            },
+            {
+              "id": 290,
+              "kwd": "武威",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "武威"
+            },
+            {
+              "id": 78385,
+              "kwd": "麦积山石窟",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "麦积山石窟"
+            },
+            {
+              "id": 424,
+              "kwd": "平凉",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "平凉"
+            },
+            {
+              "id": 79194,
+              "kwd": "拉卜楞寺",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "拉卜楞寺"
+            },
+            {
+              "id": 833,
+              "kwd": "临夏",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "临夏"
+            },
+            {
+              "id": 84169,
+              "kwd": "祁连山",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "祁连山"
+            },
+            {
+              "id": 10521199,
+              "kwd": "官鹅沟",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "官鹅沟"
+            }
+          ],
+          "id": 3024,
+          "text": "甘肃"
+        },
+        {
+          "child": [
+            {
+              "id": 458,
+              "kwd": "呼伦贝尔",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "呼伦贝尔"
+            },
+            {
+              "id": 120084,
+              "kwd": "阿尔山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "阿尔山"
+            },
+            {
+              "id": 600,
+              "kwd": "鄂尔多斯",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "鄂尔多斯"
+            },
+            {
+              "id": 483,
+              "kwd": "赤峰",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "赤峰"
+            },
+            {
+              "id": 319,
+              "kwd": "满洲里",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "满洲里"
+            },
+            {
+              "id": 2973,
+              "kwd": "额济纳旗",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "额济纳旗"
+            },
+            {
+              "id": 1358,
+              "kwd": "乌兰察布",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "乌兰察布"
+            },
+            {
+              "id": 156,
+              "kwd": "呼和浩特",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "呼和浩特"
+            },
+            {
+              "id": 10520989,
+              "kwd": "腾格里沙漠",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "腾格里沙漠"
+            },
+            {
+              "id": 1373,
+              "kwd": "锡林浩特",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "锡林浩特"
+            },
+            {
+              "id": 120493,
+              "kwd": "乌兰布统",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "乌兰布统"
+            },
+            {
+              "id": 79242,
+              "kwd": "呼伦贝尔大草原",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "呼伦贝尔大草原"
+            },
+            {
+              "id": 2026,
+              "kwd": "额尔古纳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "额尔古纳"
+            },
+            {
+              "id": 51540646,
+              "kwd": "乌兰哈达火山地质公园",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "乌兰哈达火山地质公园"
+            },
+            {
+              "id": 84016,
+              "kwd": "额济纳胡杨林旅游区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "额济纳胡杨林旅游区"
+            },
+            {
+              "id": 1316,
+              "kwd": "乌兰浩特",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "乌兰浩特"
+            },
+            {
+              "id": 1193,
+              "kwd": "阿拉善",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "阿拉善"
+            },
+            {
+              "id": 484,
+              "kwd": "锡林郭勒盟",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "锡林郭勒盟"
+            }
+          ],
+          "id": 3025,
+          "text": "内蒙古"
+        },
+        {
+          "child": [
+            {
+              "id": 4,
+              "kwd": "大连",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "大连"
+            },
+            {
+              "id": 315,
+              "kwd": "丹东",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "丹东"
+            },
+            {
+              "id": 155,
+              "kwd": "沈阳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "沈阳"
+            },
+            {
+              "id": 692,
+              "kwd": "营口",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "营口"
+            },
+            {
+              "id": 229,
+              "kwd": "鞍山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "鞍山"
+            },
+            {
+              "id": 513,
+              "kwd": "锦州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "锦州"
+            },
+            {
+              "id": 1446796,
+              "kwd": "东戴河",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "东戴河"
+            },
+            {
+              "id": 463,
+              "kwd": "本溪",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "本溪"
+            },
+            {
+              "id": 99814,
+              "kwd": "沈阳中街刘老根大舞台",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "沈阳中街刘老根大舞台"
+            },
+            {
+              "id": 79882,
+              "kwd": "本溪水洞",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "本溪水洞"
+            },
+            {
+              "id": 345,
+              "kwd": "葫芦岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "葫芦岛"
+            },
+            {
+              "id": 602,
+              "kwd": "盘锦",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "盘锦"
+            },
+            {
+              "id": 77696,
+              "kwd": "沈阳故宫",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "沈阳故宫"
+            },
+            {
+              "id": 2137,
+              "kwd": "宽甸",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "宽甸"
+            },
+            {
+              "id": 77702,
+              "kwd": "张氏帅府博物馆",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "张氏帅府博物馆"
+            },
+            {
+              "id": 75630,
+              "kwd": "老虎滩海洋公园",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "老虎滩海洋公园"
+            },
+            {
+              "id": 10559167,
+              "kwd": "大连海昌发现王国主题公园",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "大连海昌发现王国主题公园"
+            },
+            {
+              "id": 1762,
+              "kwd": "凤城",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "凤城"
+            }
+          ],
+          "id": 3026,
+          "text": "辽宁"
+        },
+        {
+          "child": [
+            {
+              "id": 237,
+              "kwd": "西宁",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "西宁"
+            },
+            {
+              "id": 281,
+              "kwd": "青海湖",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "青海湖"
+            },
+            {
+              "id": 78544,
+              "kwd": "茶卡盐湖",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [
+                {
+                  "tagName": "天空之境",
+                  "type": 1
+                }
+              ],
+              "text": "茶卡盐湖"
+            },
+            {
+              "id": 332,
+              "kwd": "格尔木",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "格尔木"
+            },
+            {
+              "id": 120012,
+              "kwd": "海西",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "海西"
+            },
+            {
+              "id": 95343,
+              "kwd": "可可西里自然保护区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "可可西里自然保护区"
+            },
+            {
+              "id": 48265518,
+              "kwd": "翡翠湖",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "翡翠湖"
+            },
+            {
+              "id": 82823,
+              "kwd": "昆仑山口",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "昆仑山口"
+            },
+            {
+              "id": 22866354,
+              "kwd": "祁连山草原",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "祁连山草原"
+            },
+            {
+              "id": 56806647,
+              "kwd": "东台吉乃尔湖",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "东台吉乃尔湖"
+            },
+            {
+              "id": 120123,
+              "kwd": "祁连",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "祁连"
+            },
+            {
+              "id": 896,
+              "kwd": "玉树",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "玉树"
+            },
+            {
+              "id": 2636,
+              "kwd": "贵德",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "贵德"
+            },
+            {
+              "id": 1446317,
+              "kwd": "门源",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "门源"
+            },
+            {
+              "id": 69542071,
+              "kwd": "水上雅丹",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "水上雅丹"
+            },
+            {
+              "id": 33348855,
+              "kwd": "青海湖骑行",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "青海湖骑行"
+            },
+            {
+              "id": 39216482,
+              "kwd": "雅丹魔鬼城",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "雅丹魔鬼城"
+            },
+            {
+              "id": 1446304,
+              "kwd": "大通",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "大通"
+            }
+          ],
+          "id": 3027,
+          "text": "青海"
+        },
+        {
+          "child": [
+            {
+              "id": 239,
+              "kwd": "银川",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "银川"
+            },
+            {
+              "id": 1184,
+              "kwd": "中卫",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "中卫"
+            },
+            {
+              "id": 77480,
+              "kwd": "西夏陵国家考古遗址公园",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "西夏陵国家考古遗址公园"
+            },
+            {
+              "id": 2119,
+              "kwd": "贺兰",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "贺兰"
+            },
+            {
+              "id": 83186,
+              "kwd": "沙坡头",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "沙坡头"
+            },
+            {
+              "id": 888,
+              "kwd": "固原",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "固原"
+            },
+            {
+              "id": 10558661,
+              "kwd": "镇北堡西部影城",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "镇北堡西部影城"
+            },
+            {
+              "id": 83196,
+              "kwd": "宁夏水洞沟旅游区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "宁夏水洞沟旅游区"
+            },
+            {
+              "id": 890,
+              "kwd": "吴忠",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "吴忠"
+            },
+            {
+              "id": 77476,
+              "kwd": "贺兰山岩画",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "贺兰山岩画"
+            },
+            {
+              "id": 2323,
+              "kwd": "灵武",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "灵武"
+            },
+            {
+              "id": 889,
+              "kwd": "石嘴山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "石嘴山"
+            },
+            {
+              "id": 101072,
+              "kwd": "沙湖生态旅游区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "沙湖生态旅游区"
+            },
+            {
+              "id": 10795347,
+              "kwd": "青铜峡黄河大峡谷",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "青铜峡黄河大峡谷"
+            },
+            {
+              "id": 2330,
+              "kwd": "青铜峡",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "青铜峡"
+            },
+            {
+              "id": 22939320,
+              "kwd": "黄河楼",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "黄河楼"
+            },
+            {
+              "id": 83728,
+              "kwd": "六盘山国家森林公园",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "六盘山国家森林公园"
+            },
+            {
+              "id": 2326,
+              "kwd": "隆德",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "隆德"
+            }
+          ],
+          "id": 3028,
+          "text": "宁夏"
+        },
+        {
+          "child": [
+            {
+              "id": 11,
+              "kwd": "苏州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "园林",
+                  "type": 1
+                }
+              ],
+              "text": "苏州"
+            },
+            {
+              "id": 9,
+              "kwd": "南京",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "南京"
+            },
+            {
+              "id": 10,
+              "kwd": "无锡",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "无锡"
+            },
+            {
+              "id": 12,
+              "kwd": "扬州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "扬州"
+            },
+            {
+              "id": 598,
+              "kwd": "溧阳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "溧阳"
+            },
+            {
+              "id": 1437,
+              "kwd": "天目湖",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "天目湖"
+            },
+            {
+              "id": 206,
+              "kwd": "常州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "常州"
+            },
+            {
+              "id": 23822661,
+              "kwd": "拈花湾",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "拈花湾"
+            },
+            {
+              "id": 493,
+              "kwd": "盐城",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "盐城"
+            },
+            {
+              "id": 120537,
+              "kwd": "汤山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "汤山"
+            },
+            {
+              "id": 238,
+              "kwd": "连云港",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "连云港"
+            },
+            {
+              "id": 10758352,
+              "kwd": "汤山温泉",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "汤山温泉"
+            },
+            {
+              "id": 13,
+              "kwd": "镇江",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "镇江"
+            },
+            {
+              "id": 494,
+              "kwd": "泰州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "泰州"
+            },
+            {
+              "id": 10758646,
+              "kwd": "天目湖御水温泉",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "天目湖御水温泉"
+            },
+            {
+              "id": 95,
+              "kwd": "同里",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "水乡",
+                  "type": 1
+                }
+              ],
+              "text": "同里"
+            },
+            {
+              "id": 101,
+              "kwd": "常熟",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "常熟"
+            },
+            {
+              "id": 81,
+              "kwd": "周庄",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "第一水乡",
+                  "type": 1
+                }
+              ],
+              "text": "周庄"
+            }
+          ],
+          "id": 3029,
+          "text": "江苏"
+        },
+        {
+          "child": [
+            {
+              "id": 31,
+              "kwd": "大理",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "大理"
+            },
+            {
+              "id": 29,
+              "kwd": "昆明",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "昆明"
+            },
+            {
+              "id": 106,
+              "kwd": "香格里拉",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "香格里拉"
+            },
+            {
+              "id": 75916,
+              "kwd": "洱海",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "洱海"
+            },
+            {
+              "id": 75919,
+              "kwd": "玉龙雪山",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "玉龙雪山"
+            },
+            {
+              "id": 928,
+              "kwd": "普洱",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "普洱"
+            },
+            {
+              "id": 1143,
+              "kwd": "梅里雪山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "梅里雪山"
+            },
+            {
+              "id": 1445616,
+              "kwd": "大理市",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "大理市"
+            },
+            {
+              "id": 2032,
+              "kwd": "元阳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "元阳"
+            },
+            {
+              "id": 2199,
+              "kwd": "芒市",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "芒市"
+            },
+            {
+              "id": 1213,
+              "kwd": "瑞丽",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "瑞丽"
+            },
+            {
+              "id": 2080,
+              "kwd": "抚仙湖",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "抚仙湖"
+            },
+            {
+              "id": 80002,
+              "kwd": "轿子雪山",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "轿子雪山"
+            },
+            {
+              "id": 2154,
+              "kwd": "景洪",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "景洪"
+            },
+            {
+              "id": 10758250,
+              "kwd": "元阳哈尼梯田",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "元阳哈尼梯田"
+            },
+            {
+              "id": 420,
+              "kwd": "保山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "保山"
+            },
+            {
+              "id": 10558734,
+              "kwd": "腾冲热海风景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "腾冲热海风景区"
+            },
+            {
+              "id": 2151,
+              "kwd": "建水",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "建水"
+            }
+          ],
+          "id": 3030,
+          "text": "云南"
+        },
+        {
+          "child": [
+            {
+              "id": 104,
+              "kwd": "成都",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "美食",
+                  "type": 1
+                }
+              ],
+              "text": "成都"
+            },
+            {
+              "id": 25,
+              "kwd": "九寨沟",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "人气",
+                  "type": 1
+                }
+              ],
+              "text": "九寨沟"
+            },
+            {
+              "id": 1484,
+              "kwd": "西岭雪山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "西岭雪山"
+            },
+            {
+              "id": 342,
+              "kwd": "稻城",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "稻城"
+            },
+            {
+              "id": 705,
+              "kwd": "海螺沟",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "海螺沟"
+            },
+            {
+              "id": 82809,
+              "kwd": "瓦屋山风景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "瓦屋山风景区"
+            },
+            {
+              "id": 120478,
+              "kwd": "色达",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "色达"
+            },
+            {
+              "id": 592,
+              "kwd": "西昌",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "西昌"
+            },
+            {
+              "id": 78572,
+              "kwd": "稻城亚丁",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "稻城亚丁"
+            },
+            {
+              "id": 24,
+              "kwd": "峨眉山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "峨眉山"
+            },
+            {
+              "id": 143878,
+              "kwd": "四姑娘山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "四姑娘山"
+            },
+            {
+              "id": 915,
+              "kwd": "绵阳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "绵阳"
+            },
+            {
+              "id": 831,
+              "kwd": "阆中",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "阆中"
+            },
+            {
+              "id": 911,
+              "kwd": "都江堰",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "都江堰"
+            },
+            {
+              "id": 593,
+              "kwd": "广元",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "广元"
+            },
+            {
+              "id": 87386,
+              "kwd": "达古冰川风景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "达古冰川风景区"
+            },
+            {
+              "id": 912,
+              "kwd": "凉山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "凉山"
+            },
+            {
+              "id": 80558,
+              "kwd": "螺髻山",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "螺髻山"
+            }
+          ],
+          "id": 3031,
+          "text": "四川"
+        },
+        {
+          "child": [
+            {
+              "id": 164,
+              "kwd": "福州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "福州"
+            },
+            {
+              "id": 1154,
+              "kwd": "霞浦",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "霞浦"
+            },
+            {
+              "id": 243,
+              "kwd": "泉州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "泉州"
+            },
+            {
+              "id": 22,
+              "kwd": "武夷山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "武夷山"
+            },
+            {
+              "id": 120058,
+              "kwd": "鼓浪屿",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "小清新",
+                  "type": 1
+                }
+              ],
+              "text": "鼓浪屿"
+            },
+            {
+              "id": 334,
+              "kwd": "漳州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "漳州"
+            },
+            {
+              "id": 317,
+              "kwd": "莆田",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "莆田"
+            },
+            {
+              "id": 620,
+              "kwd": "三明",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "三明"
+            },
+            {
+              "id": 1445940,
+              "kwd": "湄洲岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "湄洲岛"
+            },
+            {
+              "id": 2678,
+              "kwd": "泰宁",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "泰宁"
+            },
+            {
+              "id": 490,
+              "kwd": "宁德",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "宁德"
+            },
+            {
+              "id": 10521073,
+              "kwd": "平潭岛",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "平潭岛"
+            },
+            {
+              "id": 2652,
+              "kwd": "平潭",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "平潭"
+            },
+            {
+              "id": 13293683,
+              "kwd": "永定土楼",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "永定土楼"
+            },
+            {
+              "id": 83592,
+              "kwd": "大金湖",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "大金湖"
+            },
+            {
+              "id": 366,
+              "kwd": "龙岩",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "龙岩"
+            },
+            {
+              "id": 2665,
+              "kwd": "永泰",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "永泰"
+            },
+            {
+              "id": 69239823,
+              "kwd": "福建土楼(南靖)景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "福建土楼(南靖)景区"
+            }
+          ],
+          "id": 3032,
+          "text": "福建"
+        },
+        {
+          "child": [
+            {
+              "id": 37,
+              "kwd": "海口",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "海口"
+            },
+            {
+              "id": 530,
+              "kwd": "西沙群岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "西沙群岛"
+            },
+            {
+              "id": 846,
+              "kwd": "万宁",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "万宁"
+            },
+            {
+              "id": 120101,
+              "kwd": "三沙",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "三沙"
+            },
+            {
+              "id": 10558614,
+              "kwd": "蜈支洲岛",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "蜈支洲岛"
+            },
+            {
+              "id": 44775645,
+              "kwd": "三亚亚特兰蒂斯水世界",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "三亚亚特兰蒂斯水世界"
+            },
+            {
+              "id": 10558612,
+              "kwd": "亚龙湾",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "亚龙湾"
+            },
+            {
+              "id": 88071,
+              "kwd": "海棠湾",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "海棠湾"
+            },
+            {
+              "id": 1007,
+              "kwd": "文昌",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "文昌"
+            },
+            {
+              "id": 1509,
+              "kwd": "陵水",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "陵水"
+            },
+            {
+              "id": 40035962,
+              "kwd": "三亚亚特兰蒂斯度假区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "三亚亚特兰蒂斯度假区"
+            },
+            {
+              "id": 843,
+              "kwd": "琼海",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "琼海"
+            },
+            {
+              "id": 89388,
+              "kwd": "亚龙湾热带天堂森林公园",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "亚龙湾热带天堂森林公园"
+            },
+            {
+              "id": 10758497,
+              "kwd": "分界洲岛",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "分界洲岛"
+            },
+            {
+              "id": 841,
+              "kwd": "儋州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "儋州"
+            },
+            {
+              "id": 84066,
+              "kwd": "南山海上观音",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "南山海上观音"
+            },
+            {
+              "id": 982,
+              "kwd": "五指山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "五指山"
+            },
+            {
+              "id": 13425742,
+              "kwd": "全富岛",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "全富岛"
+            }
+          ],
+          "id": 3033,
+          "text": "海南"
+        },
+        {
+          "child": [
+            {
+              "id": 147,
+              "kwd": "神农架",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "神农架"
+            },
+            {
+              "id": 861,
+              "kwd": "咸宁",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "咸宁"
+            },
+            {
+              "id": 146,
+              "kwd": "武当山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "武当山"
+            },
+            {
+              "id": 145,
+              "kwd": "武汉",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "武汉"
+            },
+            {
+              "id": 487,
+              "kwd": "恩施",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "恩施"
+            },
+            {
+              "id": 10548106,
+              "kwd": "神农架国际滑雪场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "神农架国际滑雪场"
+            },
+            {
+              "id": 413,
+              "kwd": "荆州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "荆州"
+            },
+            {
+              "id": 92371,
+              "kwd": "武汉欢乐谷",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "武汉欢乐谷"
+            },
+            {
+              "id": 414,
+              "kwd": "襄阳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "襄阳"
+            },
+            {
+              "id": 97847,
+              "kwd": "武汉海昌极地海洋公园",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "武汉海昌极地海洋公园"
+            },
+            {
+              "id": 464,
+              "kwd": "十堰",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "十堰"
+            },
+            {
+              "id": 83520,
+              "kwd": "木兰草原",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "木兰草原"
+            },
+            {
+              "id": 56594169,
+              "kwd": "五峰国际滑雪场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "五峰国际滑雪场"
+            },
+            {
+              "id": 313,
+              "kwd": "宜昌",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "宜昌"
+            },
+            {
+              "id": 83500,
+              "kwd": "木兰天池",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "木兰天池"
+            },
+            {
+              "id": 83524,
+              "kwd": "武汉东湖海洋世界",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "武汉东湖海洋世界"
+            },
+            {
+              "id": 859,
+              "kwd": "黄冈",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "黄冈"
+            },
+            {
+              "id": 77603912,
+              "kwd": "恩施绿葱坡滑雪场",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "恩施绿葱坡滑雪场"
+            }
+          ],
+          "id": 3034,
+          "text": "湖北"
+        },
+        {
+          "child": [
+            {
+              "id": 23,
+              "kwd": "张家界",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "张家界"
+            },
+            {
+              "id": 148,
+              "kwd": "长沙",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "长沙"
+            },
+            {
+              "id": 10558753,
+              "kwd": "凤凰古城",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "凤凰古城"
+            },
+            {
+              "id": 61584647,
+              "kwd": "云冰山旅游景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "云冰山旅游景区"
+            },
+            {
+              "id": 496,
+              "kwd": "湘西",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "湘西"
+            },
+            {
+              "id": 336,
+              "kwd": "郴州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "郴州"
+            },
+            {
+              "id": 655,
+              "kwd": "怀化",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "怀化"
+            },
+            {
+              "id": 10558754,
+              "kwd": "芙蓉镇",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "芙蓉镇"
+            },
+            {
+              "id": 1445033,
+              "kwd": "莽山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "莽山"
+            },
+            {
+              "id": 287,
+              "kwd": "岳阳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "岳阳"
+            },
+            {
+              "id": 869,
+              "kwd": "永州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "永州"
+            },
+            {
+              "id": 77603930,
+              "kwd": "莽山·五指峰景区",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "莽山·五指峰景区"
+            },
+            {
+              "id": 10558672,
+              "kwd": "长沙世界之窗",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "长沙世界之窗"
+            },
+            {
+              "id": 867,
+              "kwd": "邵阳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "邵阳"
+            },
+            {
+              "id": 2846,
+              "kwd": "宁乡",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "宁乡"
+            },
+            {
+              "id": 277,
+              "kwd": "衡山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "衡山"
+            },
+            {
+              "id": 79888,
+              "kwd": "毛泽东故居",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "毛泽东故居"
+            },
+            {
+              "id": 91532,
+              "kwd": "株洲方特欢乐世界",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "株洲方特欢乐世界"
+            }
+          ],
+          "id": 3035,
+          "text": "湖南"
+        }
+      ]
+    },
+    {
+      "category": 4,
+      "categoryName": "中国港澳台",
+      "destAreaList": [
+        {
+          "child": [
+            {
+              "id": 39,
+              "kwd": "澳门",
+              "picUrl": "https://dimg06.c-ctrip.com/images/100k0h0000008rpf254E4_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "澳门"
+            },
+            {
+              "id": 38,
+              "kwd": "香港",
+              "picUrl": "https://dimg08.c-ctrip.com/images/100a1f000001g4pqtBF5D_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "香港"
+            },
+            {
+              "id": 100076,
+              "kwd": "台湾",
+              "picUrl": "https://dimg06.c-ctrip.com/images/fd/tg/g1/M01/7C/57/CghzfFWwwvWAZfVdACKVHDIOcb4670_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "台湾"
+            },
+            {
+              "id": 360,
+              "kwd": "台北",
+              "picUrl": "https://dimg02.c-ctrip.com/images/100o0h000000907edD905_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "台北"
+            },
+            {
+              "id": 756,
+              "kwd": "高雄",
+              "picUrl": "https://dimg05.c-ctrip.com/images/100b080000003jpob6B4B_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "高雄"
+            },
+            {
+              "id": 120492,
+              "kwd": "日月潭",
+              "picUrl": "https://dimg08.c-ctrip.com/images/fd/tg/g1/M0B/C8/62/CghzflWwvAWAL169ABzEXBShYe8513_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "日月潭"
+            },
+            {
+              "id": 1369,
+              "kwd": "台中",
+              "picUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g3/M00/A1/CC/CggYGlZ5BBSAIehLAAq_M0SAvjo078_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "台中"
+            },
+            {
+              "id": 1380,
+              "kwd": "垦丁",
+              "picUrl": "https://dimg03.c-ctrip.com/images/100b0n000000e7h8w5269_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "垦丁"
+            },
+            {
+              "id": 1366,
+              "kwd": "花莲",
+              "picUrl": "https://dimg01.c-ctrip.com/images/1003050000000ftsu1F70_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "花莲"
+            }
+          ],
+          "id": 4001,
+          "text": "热门目的地"
+        },
+        {
+          "child": [
+            {
+              "id": 3182,
+              "kwd": "嘉义县",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "嘉义县"
+            },
+            {
+              "id": 1383,
+              "kwd": "宜兰",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "宜兰"
+            },
+            {
+              "id": 758,
+              "kwd": "嘉义市",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "嘉义市"
+            },
+            {
+              "id": 759,
+              "kwd": "南投",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "南投"
+            },
+            {
+              "id": 760,
+              "kwd": "台东",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "台东"
+            },
+            {
+              "id": 2063,
+              "kwd": "新北",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "新北"
+            },
+            {
+              "id": 1364,
+              "kwd": "屏东",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "屏东"
+            }
+          ],
+          "id": 4002,
+          "text": "台湾经典目的地"
+        }
+      ]
+    },
+    {
+      "category": 5,
+      "categoryName": "日本",
+      "destAreaList": [
+        {
+          "child": [
+            {
+              "id": 296,
+              "kwd": "北海道",
+              "picUrl": "https://dimg05.c-ctrip.com/images/100n1f000001gpbte4324_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "北海道"
+            },
+            {
+              "id": 100041,
+              "kwd": "日本",
+              "picUrl": "https://dimg02.c-ctrip.com/images/100110000000qfs9mE3E1_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "日本"
+            },
+            {
+              "id": 293,
+              "kwd": "大阪",
+              "picUrl": "https://dimg06.c-ctrip.com/images/100k0p000000g44t4BECD_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "大阪"
+            },
+            {
+              "id": 430,
+              "kwd": "京都",
+              "picUrl": "https://dimg02.c-ctrip.com/images/100h060000001ylh77134_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "京都"
+            },
+            {
+              "id": 1446516,
+              "kwd": "富士山",
+              "picUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M07/80/A6/CghzfFWxBHGAINdTABlNI0SSXWI486_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "富士山"
+            },
+            {
+              "id": 294,
+              "kwd": "东京",
+              "picUrl": "https://dimg01.c-ctrip.com/images/fd/tg/g3/M01/06/7D/CggYG1aONeKAPC1IAB6njDjLgiA931_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "东京"
+            },
+            {
+              "id": 2127,
+              "kwd": "名古屋",
+              "picUrl": "https://dimg08.c-ctrip.com/images/100c0z000000nt6ja25B8_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "名古屋"
+            },
+            {
+              "id": 292,
+              "kwd": "冲绳县",
+              "picUrl": "https://dimg03.c-ctrip.com/images/100q0g00000087n15A224_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "冲绳县"
+            },
+            {
+              "id": 1878,
+              "kwd": "札幌",
+              "picUrl": "https://dimg08.c-ctrip.com/images/fd/tg/g4/M09/A7/51/CggYHVZAVmyAP6ayABH0htawvD8437_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "札幌"
+            }
+          ],
+          "id": 5001,
+          "text": "热门目的地"
+        },
+        {
+          "child": [
+            {
+              "id": 576,
+              "kwd": "福冈",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "福冈"
+            },
+            {
+              "id": 1326,
+              "kwd": "鹿儿岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "鹿儿岛"
+            },
+            {
+              "id": 14565,
+              "kwd": "小樽",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "小樽"
+            },
+            {
+              "id": 14584,
+              "kwd": "福冈县",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "福冈县"
+            },
+            {
+              "id": 1045,
+              "kwd": "奈良",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "奈良"
+            },
+            {
+              "id": 1535,
+              "kwd": "仙台",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "仙台"
+            },
+            {
+              "id": 60571,
+              "kwd": "箱根",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "箱根"
+            },
+            {
+              "id": 56705,
+              "kwd": "镰仓市",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "镰仓市"
+            },
+            {
+              "id": 1191,
+              "kwd": "熊本",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "熊本"
+            },
+            {
+              "id": 2126,
+              "kwd": "横滨",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "横滨"
+            },
+            {
+              "id": 1672,
+              "kwd": "金泽",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "金泽"
+            },
+            {
+              "id": 578,
+              "kwd": "神奈川县",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "神奈川县"
+            },
+            {
+              "id": 57024,
+              "kwd": "神户",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "神户"
+            },
+            {
+              "id": 1208,
+              "kwd": "长野县",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "长野县"
+            },
+            {
+              "id": 21363,
+              "kwd": "四国",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "四国"
+            },
+            {
+              "id": 14547,
+              "kwd": "旭川",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "旭川"
+            },
+            {
+              "id": 136061,
+              "kwd": "长崎",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "长崎"
+            },
+            {
+              "id": 295,
+              "kwd": "爱知县",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "爱知县"
+            }
+          ],
+          "id": 5002,
+          "text": "日本经典目的地"
+        }
+      ]
+    },
+    {
+      "category": 6,
+      "categoryName": "东南亚",
+      "destAreaList": [
+        {
+          "child": [
+            {
+              "id": 100021,
+              "kwd": "泰国",
+              "picUrl": "https://dimg08.c-ctrip.com/images/fd/tg/g1/M06/CA/CE/CghzflWw392Aeqq0ABjXMP41wIk420_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "泰国"
+            },
+            {
+              "id": 21396,
+              "kwd": "新加坡",
+              "picUrl": "https://dimg02.c-ctrip.com/images/fd/tg/g4/M05/B2/24/CggYHFZ4wWiAKCnuADUUoCnU8w4935_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "新加坡"
+            },
+            {
+              "id": 438,
+              "kwd": "巴厘岛",
+              "picUrl": "https://dimg03.c-ctrip.com/images/fd/tg/g1/M02/79/29/CghzfVWwp1SAD5gHACTpIEDO0sk435_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "蜜月",
+                  "type": 1
+                }
+              ],
+              "text": "巴厘岛"
+            },
+            {
+              "id": 364,
+              "kwd": "普吉岛",
+              "picUrl": "https://dimg01.c-ctrip.com/images/100m1f000001gzn8h9DEE_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "普吉岛"
+            },
+            {
+              "id": 191,
+              "kwd": "曼谷",
+              "picUrl": "https://dimg02.c-ctrip.com/images/100q1f000001grilmCB98_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "曼谷"
+            },
+            {
+              "id": 100046,
+              "kwd": "越南",
+              "picUrl": "https://dimg05.c-ctrip.com/images/100h1f000001grtyg835C_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "越南"
+            },
+            {
+              "id": 610,
+              "kwd": "长滩岛",
+              "picUrl": "https://dimg01.c-ctrip.com/images/100u0y000000lzko9F7A8_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "长滩岛"
+            },
+            {
+              "id": 670,
+              "kwd": "芽庄",
+              "picUrl": "https://dimg03.c-ctrip.com/images/100s0y000000mc3qf0838_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "芽庄"
+            },
+            {
+              "id": 100081,
+              "kwd": "柬埔寨",
+              "picUrl": "https://dimg07.c-ctrip.com/images/fd/tg/g1/M03/7A/08/CghzfFWwqRyAD9K6ABNM5X1mkgE083_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "宗教庙宇",
+                  "type": 1
+                }
+              ],
+              "text": "柬埔寨"
+            }
+          ],
+          "id": 6001,
+          "text": "热门目的地"
+        },
+        {
+          "child": [
+            {
+              "id": 14898,
+              "kwd": "仙本那",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "仙本那"
+            },
+            {
+              "id": 100044,
+              "kwd": "菲律宾",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "菲律宾"
+            },
+            {
+              "id": 434,
+              "kwd": "胡志明市",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "胡志明市"
+            },
+            {
+              "id": 208,
+              "kwd": "芭堤雅",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "芭堤雅"
+            },
+            {
+              "id": 566,
+              "kwd": "苏梅岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "苏梅岛"
+            },
+            {
+              "id": 100022,
+              "kwd": "马来西亚",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "马来西亚"
+            },
+            {
+              "id": 538,
+              "kwd": "沙巴",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "沙巴"
+            },
+            {
+              "id": 100045,
+              "kwd": "印度尼西亚",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "印度尼西亚"
+            },
+            {
+              "id": 1166,
+              "kwd": "薄荷岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "薄荷岛"
+            },
+            {
+              "id": 489,
+              "kwd": "金边",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "金边"
+            },
+            {
+              "id": 1524545,
+              "kwd": "暹粒省",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "暹粒省"
+            },
+            {
+              "id": 599,
+              "kwd": "暹粒",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "暹粒"
+            },
+            {
+              "id": 209,
+              "kwd": "清迈",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "清迈"
+            },
+            {
+              "id": 44,
+              "kwd": "槟城州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "槟城州"
+            },
+            {
+              "id": 42,
+              "kwd": "马六甲",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "古老王国",
+                  "type": 1
+                }
+              ],
+              "text": "马六甲"
+            },
+            {
+              "id": 539,
+              "kwd": "兰卡威",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "兰卡威"
+            },
+            {
+              "id": 367,
+              "kwd": "马尼拉",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "马尼拉"
+            },
+            {
+              "id": 565,
+              "kwd": "皮皮岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "皮皮岛"
+            }
+          ],
+          "id": 6002,
+          "text": "东南亚经典目的地"
+        }
+      ]
+    },
+    {
+      "category": 7,
+      "categoryName": "欧洲",
+      "destAreaList": [
+        {
+          "child": [
+            {
+              "id": 100050,
+              "kwd": "瑞士",
+              "picUrl": "https://dimg03.c-ctrip.com/images/100f050000000kxs16470_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "瑞士"
+            },
+            {
+              "id": 100096,
+              "kwd": "冰岛",
+              "picUrl": "https://dimg04.c-ctrip.com/images/100u0y000000m785w3D03_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "冰岛"
+            },
+            {
+              "id": 100024,
+              "kwd": "法国",
+              "picUrl": "https://dimg03.c-ctrip.com/images/100s1f000001gx5kk2062_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "法国"
+            },
+            {
+              "id": 100026,
+              "kwd": "意大利",
+              "picUrl": "https://dimg03.c-ctrip.com/images/fd/tg/g1/M0A/C9/86/CghzflWwy-2AE01WAIOrwbjIeAM363_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "意大利"
+            },
+            {
+              "id": 100083,
+              "kwd": "俄罗斯",
+              "picUrl": "https://dimg05.c-ctrip.com/images/10050a0000004xyzo1CB3_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "俄罗斯"
+            },
+            {
+              "id": 20354,
+              "kwd": "英国",
+              "picUrl": "https://dimg04.c-ctrip.com/images/fd/tg/g3/M08/43/A0/CggYG1avBWWAD9NgACmoNjb0dU4446_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "英国"
+            },
+            {
+              "id": 100232,
+              "kwd": "塞尔维亚",
+              "picUrl": "https://dimg07.c-ctrip.com/images/10010g0000008nrkn6594_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "塞尔维亚"
+            },
+            {
+              "id": 100092,
+              "kwd": "芬兰",
+              "picUrl": "https://dimg03.c-ctrip.com/images/fd/tg/g1/M05/CC/D6/CghzflWw_vyAGCQEABc1F7q2DyM290_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "芬兰"
+            },
+            {
+              "id": 100035,
+              "kwd": "西班牙",
+              "picUrl": "https://dimg03.c-ctrip.com/images/fd/tg/g1/M01/7D/14/CghzfFWwzhWARE8eAD3ntqtD8Aw472_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "西班牙"
+            }
+          ],
+          "id": 7001,
+          "text": "热门目的地"
+        },
+        {
+          "child": [
+            {
+              "id": 100036,
+              "kwd": "希腊",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "希腊"
+            },
+            {
+              "id": 1998,
+              "kwd": "圣托里尼",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "蜜月",
+                  "type": 1
+                }
+              ],
+              "text": "圣托里尼"
+            },
+            {
+              "id": 309,
+              "kwd": "伦敦",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "伦敦"
+            },
+            {
+              "id": 100098,
+              "kwd": "挪威",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "挪威"
+            },
+            {
+              "id": 308,
+              "kwd": "巴黎",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "巴黎"
+            },
+            {
+              "id": 389,
+              "kwd": "爱丁堡",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "爱丁堡"
+            },
+            {
+              "id": 100027,
+              "kwd": "奥地利",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "奥地利"
+            },
+            {
+              "id": 358,
+              "kwd": "莫斯科",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "莫斯科"
+            },
+            {
+              "id": 100028,
+              "kwd": "荷兰",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "荷兰"
+            },
+            {
+              "id": 100069,
+              "kwd": "丹麦",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "丹麦"
+            },
+            {
+              "id": 303,
+              "kwd": "罗马",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "罗马"
+            },
+            {
+              "id": 20843,
+              "kwd": "苏格兰",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "苏格兰"
+            },
+            {
+              "id": 1044,
+              "kwd": "雷克雅未克",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "雷克雅未克"
+            },
+            {
+              "id": 750,
+              "kwd": "普罗旺斯",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "普罗旺斯"
+            },
+            {
+              "id": 378,
+              "kwd": "马德里",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "马德里"
+            },
+            {
+              "id": 439,
+              "kwd": "维也纳",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "维也纳"
+            },
+            {
+              "id": 299,
+              "kwd": "阿姆斯特丹",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "阿姆斯特丹"
+            },
+            {
+              "id": 381,
+              "kwd": "巴塞罗那",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "巴塞罗那"
+            }
+          ],
+          "id": 7002,
+          "text": "欧洲经典目的地"
+        }
+      ]
+    },
+    {
+      "category": 8,
+      "categoryName": "美洲",
+      "destAreaList": [
+        {
+          "child": [
+            {
+              "id": 251,
+              "kwd": "夏威夷",
+              "picUrl": "https://dimg02.c-ctrip.com/images/1003180000014qpts1ADF_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "夏威夷"
+            },
+            {
+              "id": 248,
+              "kwd": "纽约",
+              "picUrl": "https://dimg01.c-ctrip.com/images/100a10000000pfidn47CE_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "纽约"
+            },
+            {
+              "id": 120518,
+              "kwd": "洛杉矶",
+              "picUrl": "https://dimg03.c-ctrip.com/images/100q0p000000fh5w1FE3C_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "洛杉矶"
+            },
+            {
+              "id": 100029,
+              "kwd": "加拿大",
+              "picUrl": "https://dimg08.c-ctrip.com/images/fd/tg/g6/M06/6F/CA/CggYs1bvknuAIlBOABiZDwdWFVk644_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "加拿大"
+            },
+            {
+              "id": 100047,
+              "kwd": "美国",
+              "picUrl": "https://dimg03.c-ctrip.com/images/100i1f000001gp21rCDD4_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "美国"
+            },
+            {
+              "id": 21598,
+              "kwd": "巴哈马",
+              "picUrl": "https://dimg07.c-ctrip.com/images/1005080000003gpbgE347_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "巴哈马"
+            },
+            {
+              "id": 252,
+              "kwd": "拉斯维加斯",
+              "picUrl": "https://dimg07.c-ctrip.com/images/fd/tg/g3/M07/0A/92/CggYGlZpRPGAH07wAC6RHv-hh2g451_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "拉斯维加斯"
+            },
+            {
+              "id": 249,
+              "kwd": "旧金山",
+              "picUrl": "https://dimg07.c-ctrip.com/images/fd/tg/g3/M01/21/7D/CggYGVZpIXaAeScrAC0i40kYG9E450_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "旧金山"
+            },
+            {
+              "id": 1827,
+              "kwd": "奥兰多",
+              "picUrl": "https://dimg07.c-ctrip.com/images/fd/tg/g4/M0B/AA/53/CggYHFXS5QCAQ2xfABBaoz8Sbr8917_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "奥兰多"
+            }
+          ],
+          "id": 8001,
+          "text": "热门目的地"
+        },
+        {
+          "child": [
+            {
+              "id": 442,
+              "kwd": "波士顿",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "波士顿"
+            },
+            {
+              "id": 253,
+              "kwd": "西雅图",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "西雅图"
+            },
+            {
+              "id": 2060,
+              "kwd": "檀香山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "檀香山"
+            },
+            {
+              "id": 250,
+              "kwd": "洛杉矶市",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "洛杉矶市"
+            },
+            {
+              "id": 21630,
+              "kwd": "亚利桑那州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "亚利桑那州"
+            },
+            {
+              "id": 1920,
+              "kwd": "迈阿密",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "迈阿密"
+            },
+            {
+              "id": 257,
+              "kwd": "华盛顿",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "华盛顿"
+            },
+            {
+              "id": 1954,
+              "kwd": "圣地亚哥",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "圣地亚哥"
+            },
+            {
+              "id": 1922,
+              "kwd": "蒙特雷县",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "蒙特雷县"
+            },
+            {
+              "id": 21636,
+              "kwd": "加利福尼亚州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "加利福尼亚州"
+            },
+            {
+              "id": 1917,
+              "kwd": "科罗拉多大峡谷",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "科罗拉多大峡谷"
+            },
+            {
+              "id": 254,
+              "kwd": "芝加哥",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "芝加哥"
+            },
+            {
+              "id": 1825,
+              "kwd": "费城",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "费城"
+            },
+            {
+              "id": 941,
+              "kwd": "佛罗里达州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "佛罗里达州"
+            },
+            {
+              "id": 21670,
+              "kwd": "纽约州",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "纽约州"
+            },
+            {
+              "id": 100219,
+              "kwd": "《梦回大唐》黄金版",
+              "picUrl": "",
+              "poiType": "SS",
+              "tagList": [],
+              "text": "《梦回大唐》黄金版"
+            },
+            {
+              "id": 34844,
+              "kwd": "卡梅尔谷",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "卡梅尔谷"
+            },
+            {
+              "id": 1267,
+              "kwd": "拿骚",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "拿骚"
+            }
+          ],
+          "id": 8002,
+          "text": "美洲经典目的地"
+        }
+      ]
+    },
+    {
+      "category": 9,
+      "categoryName": "澳中东非",
+      "destAreaList": [
+        {
+          "child": [
+            {
+              "id": 1062,
+              "kwd": "迪拜",
+              "picUrl": "https://dimg05.c-ctrip.com/images/100u0n000000e0fpmBF3A_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "迪拜"
+            },
+            {
+              "id": 100078,
+              "kwd": "新西兰",
+              "picUrl": "https://dimg04.c-ctrip.com/images/100m1f000001gznb9BC28_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "新西兰"
+            },
+            {
+              "id": 236,
+              "kwd": "悉尼",
+              "picUrl": "https://dimg03.c-ctrip.com/images/10060n000000e4c6nEB47_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "悉尼"
+            },
+            {
+              "id": 456,
+              "kwd": "黄金海岸",
+              "picUrl": "https://dimg02.c-ctrip.com/images/10030g0000008nrrd8E73_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "黄金海岸"
+            },
+            {
+              "id": 100132,
+              "kwd": "摩洛哥",
+              "picUrl": "https://dimg03.c-ctrip.com/images/100e1f000001gsyvoEE2E_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "摩洛哥"
+            },
+            {
+              "id": 453,
+              "kwd": "凯恩斯",
+              "picUrl": "https://dimg05.c-ctrip.com/images/100t15000000ybwd51538_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "凯恩斯"
+            },
+            {
+              "id": 25024,
+              "kwd": "塔斯马尼亚",
+              "picUrl": "https://dimg07.c-ctrip.com/images/100l0e00000073qxu2672_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "塔斯马尼亚"
+            },
+            {
+              "id": 684,
+              "kwd": "皇后镇",
+              "picUrl": "https://dimg05.c-ctrip.com/images/100a1f000001g4py57FE7_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "皇后镇"
+            },
+            {
+              "id": 2014499,
+              "kwd": "珀斯",
+              "picUrl": "https://dimg01.c-ctrip.com/images/10040y000000lifeg52F9_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "珀斯"
+            }
+          ],
+          "id": 9001,
+          "text": "热门目的地"
+        },
+        {
+          "child": [
+            {
+              "id": 100048,
+              "kwd": "澳大利亚",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "澳大利亚"
+            },
+            {
+              "id": 323,
+              "kwd": "布里斯班",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "布里斯班"
+            },
+            {
+              "id": 16276,
+              "kwd": "大堡礁",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "大堡礁"
+            },
+            {
+              "id": 626,
+              "kwd": "阿德莱德",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "阿德莱德"
+            },
+            {
+              "id": 15847,
+              "kwd": "猎人谷",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "猎人谷"
+            },
+            {
+              "id": 320,
+              "kwd": "奥克兰",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "奥克兰"
+            },
+            {
+              "id": 695,
+              "kwd": "基督城",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "基督城"
+            },
+            {
+              "id": 15844,
+              "kwd": "蓝山",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "蓝山"
+            },
+            {
+              "id": 321,
+              "kwd": "堪培拉",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "堪培拉"
+            },
+            {
+              "id": 629,
+              "kwd": "霍巴特",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "霍巴特"
+            },
+            {
+              "id": 755,
+              "kwd": "惠灵顿",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "惠灵顿"
+            },
+            {
+              "id": 25056,
+              "kwd": "南岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "南岛"
+            },
+            {
+              "id": 25030,
+              "kwd": "西澳大利亚",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "西澳大利亚"
+            },
+            {
+              "id": 682,
+              "kwd": "罗托鲁瓦",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "罗托鲁瓦"
+            },
+            {
+              "id": 1344,
+              "kwd": "汉密尔顿岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "汉密尔顿岛"
+            },
+            {
+              "id": 25026,
+              "kwd": "昆士兰",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "昆士兰"
+            },
+            {
+              "id": 57781,
+              "kwd": "圣灵群岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "圣灵群岛"
+            },
+            {
+              "id": 25055,
+              "kwd": "北岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "北岛"
+            }
+          ],
+          "id": 9002,
+          "text": "澳新经典目的地"
+        },
+        {
+          "child": [
+            {
+              "id": 100087,
+              "kwd": "肯尼亚",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "肯尼亚"
+            },
+            {
+              "id": 100153,
+              "kwd": "塞舌尔",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "塞舌尔"
+            },
+            {
+              "id": 100154,
+              "kwd": "坦桑尼亚",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "坦桑尼亚"
+            },
+            {
+              "id": 1353,
+              "kwd": "阿布扎比",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "阿布扎比"
+            },
+            {
+              "id": 100073,
+              "kwd": "土耳其",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "热气球",
+                  "type": 1
+                }
+              ],
+              "text": "土耳其"
+            },
+            {
+              "id": 1693,
+              "kwd": "卡萨布兰卡",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "卡萨布兰卡"
+            },
+            {
+              "id": 100099,
+              "kwd": "阿联酋",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "阿联酋"
+            },
+            {
+              "id": 797,
+              "kwd": "马赛马拉国家公园",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "马赛马拉国家公园"
+            },
+            {
+              "id": 1524576,
+              "kwd": "迪拜行政区",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "迪拜行政区"
+            },
+            {
+              "id": 1748,
+              "kwd": "马拉喀什",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "马拉喀什"
+            },
+            {
+              "id": 21851,
+              "kwd": "舍夫沙万",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "舍夫沙万"
+            },
+            {
+              "id": 22226,
+              "kwd": "拉迪格",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "拉迪格"
+            },
+            {
+              "id": 1738,
+              "kwd": "丹吉尔",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "丹吉尔"
+            },
+            {
+              "id": 1735,
+              "kwd": "拉巴特",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "拉巴特"
+            },
+            {
+              "id": 1730,
+              "kwd": "非斯",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "非斯"
+            },
+            {
+              "id": 2025305,
+              "kwd": "德拉-塔菲拉勒特大区",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "德拉-塔菲拉勒特大区"
+            },
+            {
+              "id": 1445780,
+              "kwd": "卡萨布兰卡-塞塔特大区",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "卡萨布兰卡-塞塔特大区"
+            },
+            {
+              "id": 1445801,
+              "kwd": "非斯-梅克内斯大区",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "非斯-梅克内斯大区"
+            }
+          ],
+          "id": 9004,
+          "text": "中东非经典目的地"
+        }
+      ]
+    },
+    {
+      "category": 10,
+      "categoryName": "免签",
+      "destAreaList": [
+        {
+          "child": [
+            {
+              "id": 100232,
+              "kwd": "塞尔维亚",
+              "picUrl": "https://dimg07.c-ctrip.com/images/10010g0000008nrkn6594_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "塞尔维亚"
+            },
+            {
+              "id": 444,
+              "kwd": "毛里求斯",
+              "picUrl": "https://dimg01.c-ctrip.com/images/100n0z000000nldvr384C_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "毛里求斯"
+            },
+            {
+              "id": 100102,
+              "kwd": "斐济",
+              "picUrl": "https://dimg08.c-ctrip.com/images/fd/tg/g2/M04/87/ED/Cghzf1Wwsg2AfgmyACuITDnkFBs318_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "海岛",
+                  "type": 1
+                }
+              ],
+              "text": "斐济"
+            },
+            {
+              "id": 100132,
+              "kwd": "摩洛哥",
+              "picUrl": "https://dimg03.c-ctrip.com/images/100e1f000001gsyvoEE2E_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "摩洛哥"
+            },
+            {
+              "id": 100153,
+              "kwd": "塞舌尔",
+              "picUrl": "https://dimg08.c-ctrip.com/images/100m1f000001gzlq3D739_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "塞舌尔"
+            },
+            {
+              "id": 21598,
+              "kwd": "巴哈马",
+              "picUrl": "https://dimg07.c-ctrip.com/images/1005080000003gpbgE347_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "巴哈马"
+            },
+            {
+              "id": 120064,
+              "kwd": "圣马力诺",
+              "picUrl": "https://dimg04.c-ctrip.com/images/100b060000001o1in8088_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "圣马力诺"
+            },
+            {
+              "id": 100115,
+              "kwd": "突尼斯",
+              "picUrl": "https://dimg08.c-ctrip.com/images/10051f000001gsqf2E52A_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "突尼斯"
+            },
+            {
+              "id": 100099,
+              "kwd": "阿联酋",
+              "picUrl": "https://dimg06.c-ctrip.com/images/tg/715/819/016/499d89017ce44f52947675713a6cc54c_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "阿联酋"
+            }
+          ],
+          "id": 10001,
+          "text": "热门目的地"
+        },
+        {
+          "child": [
+            {
+              "id": 100126,
+              "kwd": "厄瓜多尔",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "厄瓜多尔"
+            },
+            {
+              "id": 788,
+              "kwd": "北马里亚纳群岛",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "北马里亚纳群岛"
+            },
+            {
+              "id": 21608,
+              "kwd": "牙买加",
+              "picUrl": "",
+              "poiType": "D",
+              "tagList": [],
+              "text": "牙买加"
+            }
+          ],
+          "id": 10002,
+          "text": "免签经典目的地"
+        }
+      ]
+    },
+    {
+      "category": 11,
+      "categoryName": "落地签",
+      "destAreaList": [
+        {
+          "child": [
+            {
+              "id": 100021,
+              "kwd": "泰国",
+              "picUrl": "https://dimg08.c-ctrip.com/images/fd/tg/g1/M06/CA/CE/CghzflWw392Aeqq0ABjXMP41wIk420_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "泰国"
+            },
+            {
+              "id": 330,
+              "kwd": "马尔代夫",
+              "picUrl": "https://dimg04.c-ctrip.com/images/100k1f000001gui9o94D8_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "蜜月",
+                  "type": 1
+                }
+              ],
+              "text": "马尔代夫"
+            },
+            {
+              "id": 100081,
+              "kwd": "柬埔寨",
+              "picUrl": "https://dimg07.c-ctrip.com/images/fd/tg/g1/M03/7A/08/CghzfFWwqRyAD9K6ABNM5X1mkgE083_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "宗教庙宇",
+                  "type": 1
+                }
+              ],
+              "text": "柬埔寨"
+            },
+            {
+              "id": 100105,
+              "kwd": "老挝",
+              "picUrl": "https://dimg03.c-ctrip.com/images/fd/tg/g2/M0B/8D/18/Cghzf1Ww-6SAcf7sAAIHC90qxK8849_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "老挝"
+            },
+            {
+              "id": 100085,
+              "kwd": "约旦",
+              "picUrl": "https://dimg05.c-ctrip.com/images/tg/564/080/186/2f6e2f2327874d3889f6011cbbdc0ed6_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "约旦"
+            },
+            {
+              "id": 100214,
+              "kwd": "马达加斯加",
+              "picUrl": "https://dimg06.c-ctrip.com/images/100d11000000r0e1n5092_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [
+                {
+                  "tagName": "动物王国",
+                  "type": 1
+                }
+              ],
+              "text": "马达加斯加"
+            },
+            {
+              "id": 100123,
+              "kwd": "伊朗",
+              "picUrl": "https://dimg03.c-ctrip.com/images/100l0e00000073fzqF802_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "伊朗"
+            },
+            {
+              "id": 100207,
+              "kwd": "乌干达",
+              "picUrl": "https://dimg06.c-ctrip.com/images/100710000000pv7nj1A72_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "乌干达"
+            },
+            {
+              "id": 100136,
+              "kwd": "黎巴嫩",
+              "picUrl": "https://dimg03.c-ctrip.com/images/tg/590/709/536/078dd5290b714d95ba973681aa98a117_C_250_250.jpg",
+              "poiType": "D",
+              "tagList": [],
+              "text": "黎巴嫩"
+            }
+          ],
+          "id": 11001,
+          "text": "热门目的地"
+        }
+      ]
+    }
+  ]
+}
